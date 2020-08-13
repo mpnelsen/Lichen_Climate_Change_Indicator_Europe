@@ -1,0 +1,96 @@
+﻿Genus,Species,Country,Region,Locality,,,Habitat,,Datum,Year,Collector,,decimalLatitude,decimalLongitude,MPN_Notes,,,Status
+Parmelia,submontana,Deutschland,,"Altvatergebirge, Reihwiesen",,,an Fraxinus excelsior,440m,5.10.1921,1921,V. Grummann,,,,?Czechia?,,,Drop
+Parmelia,submontana,Deutschland,Baden-Württemberg,"Freudenstadt,am Kniebis",,,auf Acer und Fraxinus,900m,8.1981,1981,H. Schindler,,48.466951,8.41371,Already in GBIF,,,Drop
+Parmelia,submontana,Deutschland,Baden-Württemberg,between Wittig an Omerskopf,8*10'E,48*38'N,on Fagus,,2.196,,H. Reznik,,48.64262,8.181366,placed in between 8.181366 and Wittig Parkplatz,,,Keep
+Parmelia,submontana,Deutschland,Hessen,Falkengesäß,,,on Fraxinus,400m,1.10.1956,1956,O. Behr,,49.560285,8.930871,Already in BerlinDB,,,Drop
+Parmelia,submontana,Deutschland,Thüringen,Tambach,,,on Fagus,550m,21.7.1908,1908,G. Lettau,,50.233825,10.866974,,,,Keep
+Parmelia,submontana,Deutschland,Thüringen,between Oberpörlitz and Röda,,,on Populus,550m,2.10.1908,1908,G. Lettau,,50.701922,10.913748,,,,Keep
+Parmelia,submontana,Deutschland,Thüringen,Fambach,,,on Fagus,,7.7.1908,1908,G. Lettau,,50.738829,10.369085,,,,Keep
+Parmelia,submontana,Deutschland,Thüringen,Oberhof,,,on Acer,750m,16.2.1907,1907,G. Lettau,,50.704353,10.727163,Already in GBIF,,,Keep
+Parmelia,submontana,Deutschland,Hessen,Katzenbuckel,,,on Fagus,620m,2.9.1951,1951,O. Behr,,49.470833,9.040833,,,,Keep
+Parmelina,quercina,Czech Republic,,"Altvatergebirge, Endersdorf",,,on Prunus,,5.10.1921,1921,V. Grummann,,50.258566,17.350535,Already in GBIF but listed as being in Poland ,,,Drop
+Parmelina,quercina,Czech Republic,,"Altvatergebirge, Mariahilf",,,,,15.4.1922,1922,V. Grummann,,48.933333,16.533333,Already in GBIF,,,Drop
+Parmelina,quercina,Deutschland,Bayern,Neuried bei München,,,,,1.11.1901,1901,G. Lettau,,,,Neuried is not anywhere near Munich,,,Drop
+Parmelina,quercina,Deutschland,Bayern,"Allgäu, Hindelang",,,on Betula,1180m,9.1956,1956,A. Schröppel & J. Poelt,,47.506982,10.371929,,,,Keep
+Parmelina,quercina,Deutschland,Thüringen,Elgersburg,,,on Acer,,7.9.1906,1906,G. Lettau,,50.705835,10.852815,Already in GBIF,,,Drop
+Parmelina,quercina,Deutschland,Thüringen,Mühlberg bei Arnstadt,,,on Prunus,360m,26.5.1907,1907,G. Lettau,,,,Already in GBIF,,,Drop
+Parmelina,quercina,Deutschland,Nordrhein-Westfalen,Münster,,,,,1.186,,Lahm,,51.961114,7.624239,,,,Keep
+Parmelina,quercina,Deutschland,Nordrhein-Westfalen,Münster,,,,,9.186,,Fuisting,,51.961114,7.624239,,,,Keep
+Parmelina,quercina,Deutschland,,zwiscxhen Ensdetten und Borghorst,,,,,9.186,,Nitschke,,52.151013,7.446739,Placed marker between Ensdetten and Borghorst,,,Keep
+Parmelina,quercina,Deutschland,Hessen,Bad Homburg,,,,,2.1863,1863,Metzler,,50.229964,8.613056,,,,Keep
+Parmelina,quercina,Deutschland,Bayern,"Allgäu, Hinterstein",,,,850m,30.6.1935,1935,J. Hillmann,,47.481157,10.402617,"Already in GBIF, date is off by a month, but wonder if transcription error",,,Drop
+Parmelina,quercina,Deutschland,Thüringen,Oberpörlitz,,,,580m,25.9.1908,1908,G. Lettau,,50.701922,10.913748,Already in GBIF,,,Drop
+Parmelina,quercina,Deutschland,Bayern,Garmisch,,,on Acer,,,,W. Zopf,,47.5,11.083333,,,,Keep
+Parmelina,quercina,Deutschland,Baden-Württemberg,Gersbach,,,on Acer,,19.8.1910,1910,G. Lettau,,47.699024,7.925027,"Already in GBIF, date is off by 10 days, but wonder if transcription error",,,Drop
+Parmelina,quercina,Deutschland,Sachsen,Warnadorf bei Dresden,,,,,1890,1890,Auerswalde,obviously Warwendorf - my attempt to read handwriting faild here,51.95109,7.987557,"No Warnadorf. Warendorf is in western Germany, and Marsdorf is also not close to Dresden",,,Keep
+Parmelina,quercina,Deutschland,Baden-Württemberg,Todtnamberg,,,on Sorbus,,23.6.1912,1912,G. Lettau,,50.731908,8.360215,Already in GBIF,,,Drop
+Parmotrema,perlatum,Deutschland,Hessen,"Taunus, Königstein",,,on rocks,,,,Egeling,,50.183673,8.463948,,,,Keep
+Parmotrema,perlatum,Deutschland,Baden-Württemberg,Gammelsbachtal,8*58'E,49*32'N,on Acer,,10.1961,1961,H. Reznik,,49.466667,8.966667,Already in BerlinDB,,,Drop
+Parmotrema,perlatum,Deutschland,,"Spessart, Dornau",,,on Quercus,200m,28.8.1955,1955,O. Behr,,49.897008,9.188605,used Dornau coords and not Spessart,,,Keep
+Parmotrema,perlatum,Deutschland,,Gailbach,,,on Quercus,250m,22.8.1955,1955,O. Behr,,49.945945,9.206308,,,,Keep
+Parmotrema,perlatum,Deutschland,,Fechenbach,,,on Quercus,250m,26.9.1955,1955,O. Behr,,49.772063,9.337581,,,,Keep
+Parmotrema,perlatum,Deutschland,Baden-Württemberg,Säckingen,,,,,27.6.1915,1915,G. Lettau,,47.553986,7.927965,,,,Keep
+Parmotrema,perlatum,Deutschland,Bayern,Planegg,,,,,17.4.1897,1897,Arnold,,48.103393,11.431423,,,,Keep
+Parmotrema,perlatum,Deutschland,Nordrhein-Westfalen,Münster,,,,,,,Lahm,Arnold herb.,51.961114,7.624239,,,,Keep
+Parmotrema,perlatum,Deutschland,Baden-Württemberg,Haagen bei Lörrach,,,,,4.7.1929,1929,V. Grummann,,,,"Haagen is in northern Germany, Lorrach is in SW Germany near border w France and Switzerland (Basel); ALSO, already in BerlinDB",,,Drop
+Parmotrema,perlatum,Deutschland,,Dörrenbach,,,on Castanea,,16.4.1944,1944,E. Müller,,49.433776,7.235232,,,,Keep
+Parmotrema,perlatum,Deutschland,Hessen,Lorch am Rhein,,,,100m,6.1922,1922,G. Lettau,,50.044167,7.803333,Wikipedia has as,,,Keep
+Parmotrema,perlatum,Deutschland,Schleswig-Holstein,Hahemverstedt,,,,,3.4.1909,1909,F. Erichsen,,,,Could not find Hahemverstedt in Schleswig-Holstein,,,Drop
+Parmotrema,perlatum,Deutschland,Bayern,Eilzee,,,,950m,1897,1897,Vayhinger,,,,Cannot find Eilzee,,,Drop
+Parmotrema,perlatum,Deutschland,Baden-Württemberg,Zastler,,,,800m,1903,1903,A. Lösch,,47.917493,7.991396,,,,Keep
+Parmotrema,perlatum,Polen,Bieszczady Zachodnie,Puszcza Bukowa,,,,810m,10.8.1956,1956,K. Glanc,,53.335089,14.686908,"Could not find with GeoLocate, so found on Wikipedia with Lat Long",,,Keep
+Pertusaria,hymenea,Deutschland,Nordrhein-Westfalen,,,,,,1859,1859,C. Beckhaus,,51.5,7,,,,Keep
+Pertusaria,hymenea,Deutschland,Nordrhein-Westfalen,Büren,,,,,4.1863,1863,Lahm,,51.551091,8.559562,,,,Keep
+Pertusaria,hymenea,Deutschland,Schleswig-Holstein,Scharbeutz,,,on Fraxinus,,9.6.1935,1935,Erichsen,,54.02762,10.755049,,,,Keep
+Pertusaria,hymenea,Deutschland,Nordrhein-Westfalen,Wolbecker Tiergarten,,,,,1863,1863,Nitschke,,51.910741,7.745211,Placed marker at Wolbecker Tiergarten,,,Keep
+Pertusaria,hymenea,Deutschland,Baden-Württemberg,Heidelberg,,,,,,,Ahles,,49.404123,8.683733,,,,Keep
+Pertusaria,trachythallina,Deutschland,Baden-Württemberg,Heidelberg,,,,,1857,1857,von Zwackh,,49.404123,8.683733,,,,Keep
+Pertusaria,trachythallina,Deutschland,Bayern,München,,,,,1879,1879,Arnold,,48.15,11.583333,,,,Keep
+Pertusaria,trachythallina,Deutschland,Bayern,Eichstätt,,,,,1868,1868,Arnold,,48.888543,11.196753,,,,Keep
+Pertusaria,trachythallina,Deutschland,Nordrhein-Westfalen,Büren,,,,,7.186,,Lahm,,51.551091,8.559562,,,,Keep
+Flavoparmelia,caperata,Czech Republic,,"Altvatergebirge, Arnoldsdorf",,,,,29.7.1921,1921,V. Grummann,,,,Varnsdorf? But Varnsdorf is not really near Altvatergebirge,,,Drop
+Flavoparmelia,caperata,Deutschland,Baden-Württemberg,Tübingen,,,,,15.11.1964,1964,W.U. Berthold,,48.533333,9.05,,,,Keep
+Flavoparmelia,caperata,Deutschland,Bayern,Rosenheim,,,,,,,Arnold,,47.857316,12.11925,,,,Keep
+Flavoparmelia,caperata,Deutschland,,"Odenwald, Baden",,,,,7.8.1948,1948,O. Behr,,,,"Tough to figure out WHERE exactly the Odenwald region of Baden-Burttemberg is.; Also, most likely already in BerlinDB entered as 28 Nov 1948",,,Drop
+Flavoparmelia,caperata,Deutschland,Hessen,Lorch am Rhein,,,,,,,Bayrhoffer,,48.799788,9.689979,,,,Keep
+Flavoparmelia,caperata,Deutschland,Baden-Württemberg,Heidelberg,,,,,,,Voigtländer,,49.404123,8.683733,,,,Keep
+Flavoparmelia,caperata,Deutschland,Thüringen,Siegelbach,,,,,5.11.1908,1908,G. Lettau,,50.802356,10.933231,Already in GBIF,,,Drop
+Flavoparmelia,caperata,Deutschland,Baden-Württemberg,Heidelberg,,,,,8.1922,1922,Voigtländer,,49.404123,8.683733,,,,Keep
+Flavoparmelia,caperata,Deutschland,Sachsen,Radibor,,,,,11.1927,1927,Stolle & Winter',,51.244372,14.397734,"Already in BerlinDB, collector name not there, but same date and location",,,Drop
+Usnea,florida,Deutschland,Rheinland-Pfalz,"Eifel, Daun",,,,,8.1936,1936,Baschant,,50.197155,6.829418,,,,Keep
+Hypotrachyna,revoluta,Deutschland,Bayern,Partenkirchen,,,,,8.1904,1904,Zopf,,47.5,11.11666,,,,Keep
+Hypotrachyna,revoluta,Deutschland,Baden-Württemberg,Heidelberg,,,,,21.5.1903,1903,G. Lettau,,49.404123,8.683733,,,,Keep
+Hypotrachyna,revoluta,Polen?,,Hirschberg,,,,,,,Körber,,50.5412,15.444,,,,Keep
+Hypotrachyna,revoluta,Deutschland,Bayern,München,,,,,14.9.1892,1892,Arnold,,48.15,11.583333,Seems like in GBIF - a couple of Sauerlach collections from Arnold on same day.  Drop,,,Drop
+Hypotrachyna,revoluta,Deutschland,Nordrhein-Westfalen,Bad Lippspringe,,,,,3.1865,1865,Beckhaus,,51.783327,8.816827,,,,Keep
+Hypotrachyna,revoluta,Deutschland,Hessen,"Kr. Erbach, Steinbuch",,,,,28.11.1948,1948,O. Behr,,,,?Between Steinbuch and Dorf Erbach?,,,Drop
+Hypotrachyna,revoluta,Deutschland,Bayern,"Allgäu, Tiefenberger Moos bei Sonthofen",,,,,13.7.1918,1918,G. Lettau,,47.48486,10.254592,Placed at Tiefenberger Moos Nature Preserve,,,Keep
+Hypotrachyna,revoluta,Deutschland,Hessen,Lorch am Rhein,,,,,6.1922,1922,G. Lettau,,48.799788,9.689979,,,,Keep
+Hypotrachyna,revoluta,Deutschland,Baden-Württemberg,Heidelberg,,,,,,,Reddig,,49.404123,8.683733,,,,Keep
+Melanohalea,laciniatula,Deutschland,Hessen,Schlitz,,,,,10.1961,1961,W.U. Berthold,,50.67471,9.561385,,,,Keep
+Melanohalea,laciniatula,Deutschland,Baden-Württemberg,Freudenstadt,,,,,26.7.1969,1969,H. Schindler,,48.466951,8.41371,,,,Keep
+Melanohalea,laciniatula,Deutschland,Thüringen,Oberhof,,,,,14.7.1915,1915,J. Hillmann,,50.704353,10.727163,,,,Keep
+Melanohalea,laciniatula,Deutschland,Thüringen,Abtsroda,,,,600m,6.1922,1922,G. Lettau,,50.508277,9.923903,,,,Keep
+Melanohalea,laciniatula,Schweden,Skåne,"Torrlösa, Trolleholm",,,,,14.6.1939,1939,Almborn,,55.9,13.25,,,,Keep
+Melanohalea,laciniatula,Schweden,Skåne,Gudmuntorp,,,,,24.2.1934,1934,Almborn,,55.816667,13.483333,Already in GBIF,,,Drop
+Punctelia,borreri,Deutschland,Nordrhein-Westfalen,Münster,,,,,,,Lahm,,51.961114,7.624239,,,,Keep
+Punctelia,borreri,Deutschland,Nordrhein-Westfalen,Kirchhellen,,,,,8.1861,1861,Lahm,,51.604682,6.923225,,,,Keep
+Punctelia,jeckeri,Czech Republic,Bohemia,České Skalice,,,,,1926,1926,Kutak,,50.394014,16.049184,,,,Keep
+Punctelia,jeckeri,Deutschland,Bayern,Garmisch,,,,,8.1904,1904,Arnold,,47.5,11.083333,,,,Keep
+Punctelia,jeckeri,Deutschland,Hessen,Eberstadt,,,,,3.5.1955,1955,O. Behr,,50.479917,8.760192,,,,Keep
+Punctelia,jeckeri,Deutschland,Hessen,Bad König,,,,,17.4.1952,1952,O. Behr,,49.743197,9.0075,,,,Keep
+Punctelia,jeckeri,Deutschland,Baden-Württemberg,Stuttgart,,,,,29.3.1947,1947,Putzker,,48.782343,9.180819,,,,Keep
+Punctelia,jeckeri,Deutschland,Baden-Württemberg,"Remstal, Stetten",,,,,9.2.1947,1947,Peckler,,,,"Stetten im Remstall, which is near Kernen, OR Stetten which is further south and on Lake Constance??",,,Drop
+Punctelia,jeckeri,Deutschland,Baden-Württemberg,"Lörrach, Tumringen",,,,,14.6.1912,1912,G. Lettau,,47.626623,7.654353,,,,Keep
+Punctelia,subrudecta,Polen,Bieszcady Zachodnie,Wołosatym,,,,,20.9.1958,1958,K. Glanc,,49.19664,22.681819,"Already in GBIF, (BUT, lat long here is better than that in GBIF (no locality given))",,,Drop
+Punctelia,subrudecta,Polen,Bieszcady Zachodnie,Wetlina,,,,,18.5.1956,1956,K. Glanc,,49.143052,22.482009,"Already in GBIF, (BUT, lat long here is better than that in GBIF (no locality given))",,,Drop
+Punctelia,subrudecta,Deutschland,Brandenburg,Pritzwalk,,,,,12.1893,1893,Jaap,,53.149468,12.174718,,,,Keep
+Punctelia,subrudecta,Deutschland,Hessen,Bad König,,,,,17.4.1952,1952,O. Behr,,49.743197,9.0075,,,,Keep
+Punctelia,subrudecta,Deutschland,Baden-Württemberg,Heidelberg,,,,,,,von Zwackh,,49.404123,8.683733,,,,Keep
+Punctelia,subrudecta,Deutschland,Hessen,Steinbuch,,,,,28.11.1948,1948,O. Behr,,49.683022,8.95375,,,,Keep
+Thelotrema,lepadinum,Polen,Western Beskids,near Soblówka,,,,,9.6.1972,1972,J. Nowak,,49.433333,19.133333,"Could not find with GeoLocate, so found on Wikipedia with Lat Long",,,Keep
+Thelotrema,lepadinum,Polen,Bieszczady Zachodnie,Pszczeliny,,,,,22.6.1957,1957,K. Glanc,,49.165633,22.689935,Already in GBIF,,,Drop
+Thelotrema,lepadinum,Sweden,Småland,Jungfrun,,,,,9.6.1914,1914,Du Rietz,,57.266667,16.783056,Already in GBIF,,,Drop
+Thelotrema,lepadinum,Schweden,Östergötland,Omberg,,,,,16.6.1915,1915,Malme,,58.333333,14.65,Already in GBIF,,,Drop
+Thelotrema,lepadinum,Deutschland,Sachsen,Sächsische Schweiz,,,,,,,Rabenhorst,,50.9,14.283333,,,,Keep
+Thelotrema,lepadinum,Polen,Schlesien,Riesengebirge,,,,,8.1882,1882,?,,50.767222,15.622222,Riesengebirge is German name for Karkonosze,,,Keep

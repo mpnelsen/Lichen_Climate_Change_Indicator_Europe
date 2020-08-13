@@ -1,0 +1,4 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","year","month","day","country","catalogNumber","institutionCode","locality","collectionCode","stateProvince","recordedBy","DB","BBarcode","b1test","name"
+442148112,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.760278,47.994167,1916,"4",21,"Germany","B 60 0002416 / 143786 / 89368","B","Baden: Mooswald bei Freiburg","Blettaucoll",NA,"Lettau, G.","GBIF",NA,104,"Schismatomma decolorans"
+442148113,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.675,47.660557,1911,"10",18,"Germany","B 60 0002417 / 143787 / 89369","B","Baden: Röttler Wald bei Rümmingen","Blettaucoll",NA,"Lettau, G.","GBIF",NA,94,"Schismatomma decolorans"
+442148111,"8589cc8c-f762-11e1-a439-00145eb45e9a",10.944445,50.838333,1907,"5",19,"Germany","B 60 0002414 / 143784 / 89367","B","Thüringen: ""Hain"" bei Arnstadt, 380 m.","Blettaucoll",NA,"Lettau, G.","GBIF",NA,80,"Schismatomma decolorans"

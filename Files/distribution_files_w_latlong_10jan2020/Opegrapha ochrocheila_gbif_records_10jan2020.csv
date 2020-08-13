@@ -1,0 +1,32 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","year","month","day","country","locality","catalogNumber","recordedBy","institutionCode","collectionCode","stateProvince"
+2464501090,"8f7e3c45-4d76-4982-9478-651439e0cd4b",26.814521,59.479221,2017,6,10,"Estonia","Kalvi küla","TU84654.b","Ave Suija","TU(M)",NA,NA
+1839175646,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.286667,50.923883,2016,10,15,"Germany","Kirnitzschtal unterhalb der Buschmühle","50657-765",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA
+1212178190,"85739778-f762-11e1-a439-00145eb45e9a",13.2533,53.26,2013,5,9,"Germany","GERMANY, Brandenburg: Uckermark, E-shore of lake Brückentinsee, NW of Rutenberg N of Lychen. Alt. 70 m.","183873","H. Sipman & D. Heinrich","B","Lichen Herbarium Berlin",NA
+1054224241,"2e4cc37b-302e-4f1b-bbbb-1f674ff90e14",7.354773,58.072343,2013,7,4,"Norway","Fasselandsvatnet NØ (Torp SØ)","JK13-L286","Klepsland, Jon T.","BioFokus","BioFokus","Vest-Agder"
+1054212181,"2e4cc37b-302e-4f1b-bbbb-1f674ff90e14",5.913852,58.934264,2013,10,10,"Norway","Ommålknuten","THH13415","Hofton, Tom H.","BioFokus","BioFokus","Rogaland"
+1233564696,"828a3d8c-f762-11e1-a439-00145eb45e9a",13.4668,52.540633,2013,10,31,"Germany","Berlin-Weißensee, jüdischer Friedhof, Grabfeld U 4","16221",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA
+912722391,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.385833,50.902783,2012,10,22,"Germany","Elbsandsteingebirge, Kirnitzschklamm, in wegelosem Abschnitt jenseits des Aufstiegs zum Herrmannseck","33883",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA
+1148716652,"8f7e3c45-4d76-4982-9478-651439e0cd4b",21.91751,58.51526,2011,7,20,"Estonia","Undva pank","TU55277","Ede Oja","TU(M)",NA,NA
+1148683998,"8f7e3c45-4d76-4982-9478-651439e0cd4b",27.49715,59.4283,2010,6,8,"Estonia","Toila ligidal","TU59513b","Inga Jüriado","TU(M)",NA,NA
+1148683874,"8f7e3c45-4d76-4982-9478-651439e0cd4b",27.32086,59.44385,2010,8,24,"Estonia","kavandatav õpperada","TU59491","Inga Jüriado","TU(M)",NA,NA
+1148684035,"8f7e3c45-4d76-4982-9478-651439e0cd4b",27.32153,59.44421,2010,8,24,"Estonia","kavandatav õpperada","TU59488b","Inga Jüriado","TU(M)",NA,NA
+1148686415,"8f7e3c45-4d76-4982-9478-651439e0cd4b",27.33555,59.44433,2010,11,20,"Estonia","Valaste joa ümbrus","TU46247","Ave Suija","TU(M)",NA,NA
+1148681735,"8f7e3c45-4d76-4982-9478-651439e0cd4b",22.16444,58.02028,2008,9,20,"Estonia","Koltse järve ümbrus.","TU58387","Maarja Nõmm","TU(M)",NA,NA
+1212175511,"85739778-f762-11e1-a439-00145eb45e9a",13.7233,53.2917,2006,6,10,"Germany","DEUTSCHLAND, Brandenburg: Kr. Uckermark, NE of Templin. NSG Stromtal bei Gollmitz.  NSG Stromtal near Gollmitz. Alt. 55 m.","85846","H. Sipman & D. Heinrich","B","Lichen Herbarium Berlin",NA
+1148669561,"8f7e3c45-4d76-4982-9478-651439e0cd4b",22.01667,58.28333,2003,8,NA,"Estonia","Koplimetsa puisniit","TU28206","Ede Oja","TU(M)",NA,NA
+1148669534,"8f7e3c45-4d76-4982-9478-651439e0cd4b",27.2,59.43333,2002,9,6,"Estonia","Ontika MKA, Saka","TU28212","Inga Jüriado","TU(M)",NA,NA
+1148669554,"8f7e3c45-4d76-4982-9478-651439e0cd4b",27.31667,59.43333,2002,9,7,"Estonia","Ontika MKA, Ontika","TU28208b","Inga Jüriado","TU(M)",NA,NA
+1148669564,"8f7e3c45-4d76-4982-9478-651439e0cd4b",27.2,59.43333,2002,9,6,"Estonia","Ontika MKA, Saka","TU28211","Inga Jüriado","TU(M)",NA,NA
+1148669567,"8f7e3c45-4d76-4982-9478-651439e0cd4b",27.2,59.43333,2002,9,6,"Estonia","Ontika MKA, Saka","TU28210","Inga Jüriado","TU(M)",NA,NA
+1148669587,"8f7e3c45-4d76-4982-9478-651439e0cd4b",27.31667,59.43333,2002,9,7,"Estonia","Ontika MKA, Ontika","TU28209","Inga Jüriado","TU(M)",NA,NA
+1148669624,"8f7e3c45-4d76-4982-9478-651439e0cd4b",27.2,59.43333,2002,9,6,"Estonia","Ontika MKA, Saka","TU28213","Inga Jüriado","TU(M)",NA,NA
+125713281,"84cdd6d0-f762-11e1-a439-00145eb45e9a",8,56,2002,10,21,"Denmark","NWJ: Salling, Kås, Bringsbjerg Krat","17077","René S. Larsen","C","L","Northern Jutland"
+328125476,"890afcd2-f762-11e1-a439-00145eb45e9a",-6.686,43.036999,2000,10,18,"Spain","Cangas del Narcea. Bosque mixto mesótrofo con fresno y plágano camino de Fuenculebrera. Monte Muniellos.","21353-1","S. Pérez-Ortega & S. Fos","VAL","VAL_Lich","O"
+1148669569,"8f7e3c45-4d76-4982-9478-651439e0cd4b",24.15,58.31667,1999,9,18,"Estonia","Audru mtsk. Kv. 220, er. 5.","TU28207","Ilmar Süda","TU(M)",NA,NA
+152940217,"89579e3e-f762-11e1-a439-00145eb45e9a",15.411784,46.499674,1998,12,13,"Slovenia",NA,"F776127","Batič F.","ULBF-AGR","FloVegSI-FLO",NA
+1148669183,"8f7e3c45-4d76-4982-9478-651439e0cd4b",23.55,58.55,1989,7,11,"Estonia","Puhtu, Puhtu ornitoloogiajaam","TU7705","Rikard Sundin","TU(M)",NA,NA
+1826811363,"7f2889e6-f762-11e1-a439-00145eb45e9a",2.94,41.78,1984,3,15,"Spain","Cala Bona","10534","Antonio Gómez-Bolea & Montserrat Boqueras","BCN","Lich","Girona"
+1826811290,"7f2889e6-f762-11e1-a439-00145eb45e9a",2.94,41.78,1984,6,23,"Spain","Cala Bona","10567","Antonio Gómez-Bolea & Montserrat Boqueras","BCN","Lich","Girona"
+1826811342,"7f2889e6-f762-11e1-a439-00145eb45e9a",2.94,41.78,1981,10,30,"Spain","Cala Bona","10530","Antonio Gómez-Bolea & Montserrat Boqueras","BCN","Lich","Girona"
+1057242381,"7e380070-f762-11e1-a439-00145eb45e9a",-4.537906,54.227621,1958,3,22,"Isle of Man",NA,"BM000732496","Peter Wilfrid James","NHMUK","BOT","England"
+2449357305,"85739778-f762-11e1-a439-00145eb45e9a",13.1167,54.5833,1929,5,24,"Germany","DEUTSCHLAND, Mecklenburg-Vorpommern: Insel Hiddensee bei Rügen, Kloster.","117698","V. J. Grummann","B","Lichen Herbarium Berlin",NA

@@ -1,0 +1,8 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","stateProvince","year","month","day","country","locality","collectionCode","catalogNumber","recordedBy","institutionCode","DB","BBarcode"
+NA,NA,10.516667,47.483333,NA,1956,"01 Sep.",NA,"GERMANY","GERMANY, Bayern (= Bavaria): Allgäuer Alpen, Tirol; above the Visalpsee Lake near Tannheim.",NA,"139149","J. Poelt","BERLIN_DB","BERLIN_DB",NA
+234004264,"905daf20-04fd-11df-8c28-b8a03c50a862",9.04937,48.54851,NA,1930,"8",NA,"Germany",NA,"General","44039","A[.]ön[.]","UME","GBIF",NA
+442142102,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.63,47.806667,NA,1922,"5",7,"Germany","Baden: Oberhalb Obereggenen (bei Müllheim), 400 m.","Blettaucoll","B 60 0086353 / 152255 / 92541","Lettau, G.","B","GBIF",NA
+442142103,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.605834,47.711113,NA,1921,"5",1,"Germany","Baden: Tannenkirch - Holzen (bei Lörrach), 300 m.","Blettaucoll","B 60 0111688 / 147689 / 90828","Lettau, G.","B","GBIF",NA
+NA,NA,7.833066,47.8225,NA,1918,"4 Aug.",NA,"GERMANY","DEUTSCHLAND, Baden-Württemberg: Schwarzwald, am Belchen.",NA,"118795","C. F. E. Erichsen in herb. V. J. Grummann","BERLIN_DB","BERLIN_DB",NA
+442142104,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.661667,47.612778,NA,1912,"11",10,"Germany","Baden: Lörrach - Waidhof","Blettaucoll","B 60 0111690 / 147691 / 90829","Lettau, G.","B","GBIF",NA
+NA,NA,11.966667,51.2,NA,1843,"Juni",NA,"GERMANY","(DEUTSCHLAND, Thüringen:) Weissenfels in Thüringen, an einer Schwarzpappel.",NA,"3022","Auerswald","BERLIN_DB","BERLIN_DB",NA

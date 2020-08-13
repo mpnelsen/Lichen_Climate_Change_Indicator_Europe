@@ -1,0 +1,8 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","stateProvince","year","month","day","country","catalogNumber","recordedBy","institutionCode","locality","collectionCode","DB","BBarcode","b1test","name"
+234007804,"905daf20-04fd-11df-8c28-b8a03c50a862",5.22536,48.11051,NA,1960,"5",15,"France","61589","J. Lambinon","UME",NA,"General","GBIF",NA,91,"Nephroma laevigatum"
+442145150,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.838056,47.823334,NA,1922,"8",20,"Germany","B 60 0031895 / 146078 / 90194","Lettau, G.","B","Schwarzwald: Belchen - Südhang, bei ca. 1300 m","Blettaucoll","GBIF",NA,61,"Nephroma laevigatum"
+442145149,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.800556,47.59,NA,1916,"9",10,"Germany","B 60 0031893 / 146084 / 90196","Lettau, G.","B","Baden: Nordschwaben - Karsau (bei Rheinfelden)","Blettaucoll","GBIF",NA,94,"Nephroma laevigatum"
+NA,NA,7.8325,48.008056,NA,1894,"7. Mai",NA,"GERMANY","3102","Horstik","BERLIN_DB","(DEUTSCHLAND, Baden-Württemberg:) Freiburg (Breisgau). (ex Sammlung Julius Riemer)",NA,"BERLIN_DB",NA,105,"Nephroma laevigatum"
+NA,NA,9.378885,51.775814,NA,1863,"April",NA,"GERMANY","1213","Beckhaus","BERLIN_DB","[DEUTSCHLAND, Nordrhein-Westfalen:] Bei Höxter an Klippen des Solling über Rotheminde.",NA,"BERLIN_DB",NA,91,"Nephroma laevigatum"
+NA,NA,7.098416,50.701381,NA,1860,"Juli",NA,"GERMANY","1214","Fuisting?","BERLIN_DB","[DEUTSCHLAND, Nordrhein-Westfalen:] Buchen..... des Venusberges bei Bonn.",NA,"BERLIN_DB",NA,94,"Nephroma laevigatum"
+152940237,"89579e3e-f762-11e1-a439-00145eb45e9a",13.911986,46.499611,NA,1800,"1",1,"Slovenia","F776564","Dolšak F.","ULBF-AGR",NA,"FloVegSI-FLO","GBIF",NA,55,"Nephroma laevigatum"

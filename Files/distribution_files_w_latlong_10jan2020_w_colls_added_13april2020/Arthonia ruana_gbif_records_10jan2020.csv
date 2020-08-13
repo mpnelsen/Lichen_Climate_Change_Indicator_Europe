@@ -1,0 +1,19 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","stateProvince","year","month","day","country","catalogNumber","recordedBy","institutionCode","locality","collectionCode","DB","BBarcode"
+1262181116,"85739778-f762-11e1-a439-00145eb45e9a",14.0717,52.5783,NA,2016,"1",16,"Germany","193972","H. Sipman & A. Aptroot","B","GERMANY, Brandenburg: E of Strausberg, along Stöber rivulet N of Buckow. Alt. 45 m.","Lichen Herbarium Berlin","GBIF",NA
+NA,NA,8.96012,53.462403,NA,2008,"6-Apr",NA,"GERMANY","103389","H. Sipman","BERLIN_DB","DEUTSCHLAND, Niedersachsen: Landkr. Cuxhaven. Malse forest, FFH area, outside NSG area, NW of Basdahl, S of Hipstedt. MTB 2519/2B3. Elev. 25 m.",NA,"BERLIN_DB","B 60 0163658"
+NA,NA,9.005089,53.42196,NA,2008,"4-Apr",NA,"GERMANY","103359","H. Sipman","BERLIN_DB","DEUTSCHLAND, Niedersachsen: Landkr. Landkreis Rotenburg (Wümme). Franzhorn forest N of Brillit, Naturwald area. MTB 2520/3B1. Elev. 20-40 m",NA,"BERLIN_DB","B 60 0163628"
+NA,NA,13.44944,54.0815,NA,2005,"18-Mar",NA,"GERMANY","109228","A. Aptroot","BERLIN_DB","DEUTSCHLAND, Mecklenburg-Vorpommern: Greifswald, Eldena forest.",NA,"BERLIN_DB","B 60 0173944"
+2237882182,"84d26682-f762-11e1-a439-00145eb45e9a",10.68546,54.72797,NA,1991,"5",12,"Denmark","DMS-1019473","Svanhildur Svane",NA,"Gulstav Vesterskov",NA,"GBIF",NA
+NA,NA,13.045332,47.689515,NA,1989,"17. sept.",NA,"GERMANY","38715","H. Sipman","BERLIN_DB","GERMANY, BAYERN. Berchtesgaden, Marktschellenberg. Alt. 500 m. Along trail to Salzburger Hochthron, near the valley botton close to the main road. Mixed forest on E-facing slope. On Fagus root.",NA,"BERLIN_DB",""
+NA,NA,12.819813,47.67829,NA,1989,"15. sept.",NA,"GERMANY","38648","H. Sipman","BERLIN_DB","GERMANY, BAYERN. Berchtesgaden. Unterjettenberg. Alt. 550 m. Near margin of old deciduous forest on mountain slope with pasturefields. On Corylus.",NA,"BERLIN_DB",""
+NA,NA,7.460112,53.405455,NA,1986,"9-May",NA,"GERMANY","18973","Hans-Wilhelm LINDERS","BERLIN_DB","DEUTSCHLAND, Niedersachsen: Ihlower Forst, Abt. 5. An Fraxinus (Baumstupf).",NA,"BERLIN_DB",""
+2237877308,"84d26682-f762-11e1-a439-00145eb45e9a",11.35874,54.78336,NA,1977,"7",24,"Denmark","DMS-1014249","Mogens Skytte Christiansen",NA,"Kristianssæde Skov",NA,"GBIF",NA
+2237877835,"84d26682-f762-11e1-a439-00145eb45e9a",11.81932,54.67871,NA,1976,"5",20,"Denmark","DMS-1013948","Mogens Skytte Christiansen",NA,"Roden Skov",NA,"GBIF",NA
+2237877889,"84d26682-f762-11e1-a439-00145eb45e9a",11.81932,54.67871,NA,1976,"6",29,"Denmark","DMS-1013968","Mogens Skytte Christiansen",NA,"Roden Skov",NA,"GBIF",NA
+2237865947,"84d26682-f762-11e1-a439-00145eb45e9a",11.55212,54.72352,NA,1952,"4",13,"Denmark","DMS-1004700","Mogens Skytte Christiansen",NA,"Favrsted Skov",NA,"GBIF",NA
+2237875533,"84d26682-f762-11e1-a439-00145eb45e9a",11.30596,54.86733,NA,1946,"7",17,"Denmark","DMS-1013621","Ove Almborn",NA,"Rosningen Skov",NA,"GBIF",NA
+621186,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.495783,54.867183,"Jylland",1946,"7",20,"Denmark","1008749","Ove Almborn","LD","Hønsnap Skov","General","GBIF",NA
+621221,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.9575,55,"Jylland",1946,"7",20,"Denmark","1011504","Ove Almborn","LD","Als: Helved","General","GBIF",NA
+621718,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.296944,54.865833,"Lolland",1946,"7",17,"Denmark","1089646","Ove Almborn","LD","Rosningen","General","GBIF",NA
+621737,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.666667,54.783333,"Lolland",1946,"7",16,"Denmark","1091487","Ove Almborn","LD","Holmeskov Dyrehave","General","GBIF",NA
+621792,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.835,54.902778,"Jylland",1946,"7",20,"Denmark","1094606","Ove Almborn","LD","Als: Sønderskov","General","GBIF",NA

@@ -1,0 +1,40 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","stateProvince","year","month","day","country","catalogNumber","recordedBy","institutionCode","collectionCode","locality","DB","BBarcode"
+2235561948,"e553568e-2317-4592-8638-92e5ac93b40c",6.03639,48.62528,"54 Meurthe-et-Moselle",2018,"1",20,"France","NCY021819","Mahévas, Th.","CJBN","NCY",NA,"GBIF",NA
+1832335803,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.531,51.300417,NA,2016,"4",20,"Germany","48988-771",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Halbendorf/ Spree W","GBIF",NA
+1675794545,"828a3d8c-f762-11e1-a439-00145eb45e9a",6.9577,47.966867,NA,2016,"9",16,"France","49072-771",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","beim Wildensteiner Stausee, neben dem Sportplatz","GBIF",NA
+1675788162,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.294635,50.156017,NA,2015,"1",9,"Germany","221529",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Hoher Taunus, das Theißtal westl. von Niedernhausen, Feldkreuz bei den Fischteichen","GBIF",NA
+1675788109,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.595,50.082817,NA,2015,"2",13,"Germany","221461",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Frankfurt, Schwanheimer Wald","GBIF",NA
+1675788160,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.5602,50.066111,NA,2015,"3",8,"Germany","221482",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Frankfurt, Unterwald","GBIF",NA
+1270682659,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.282333,50.91995,NA,2015,"10",13,"Germany","42807",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Lorenzsteine","GBIF",NA
+1675788099,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.605228,50.076132,NA,2014,"7",15,"Germany","218140",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Untermainebene, Frankfurt, Goldstein, Unterschweinstiegschneise, Waldfriedhof","GBIF",NA
+1675788102,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.605228,50.076132,NA,2014,"7",15,"Germany","218145",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Untermainebene, Frankfurt, Goldstein, Unterschweinstiegschneise, Waldfriedhof","GBIF",NA
+1675788121,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.583734,50.077225,NA,2014,"7",15,"Germany","218130",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Untermainebene, Frankfurt, Schwanheim, Schwanheimer Wald, Rechte Wiese"" östl. der Schwanheimer Bahnstraße""","GBIF",NA
+1675788116,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.5986,50.083889,NA,2014,"9",24,"Germany","221194",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Frankfurt, Schwanheimer Wald","GBIF",NA
+1061067479,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.197367,50.946383,NA,2014,"10",28,"Germany","38441",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","im Sebnitztal","GBIF",NA
+1675793864,"828a3d8c-f762-11e1-a439-00145eb45e9a",10.957317,47.668283,NA,2014,"11",15,"Germany","264229",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Regierungsbezirk Oberbayern, Landkreis Weilheim-Schongau, Gemeinde Wildsteig, Wildmoos bei Peustelsau (Probenfläche 894)","GBIF",NA
+1675793877,"828a3d8c-f762-11e1-a439-00145eb45e9a",11.141717,47.636317,NA,2014,"11",15,"Germany","264165",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Regierungsbezirk Oberbayern, Landkreis Garmisch-Partenkirchen, Gemeinde Schwaigen, Murnauer Moos, Bärenfilz (Probenfläche 891)","GBIF",NA
+1675794591,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.8564,51.0692,NA,2013,"4",23,"Germany","35035-776",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Schönau-Berzdorf, Waldbachtal","GBIF",NA
+1052816568,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.29805,50.910417,NA,2013,"10",29,"Germany","38503",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Großer Zschand, beim Zeughaus","GBIF",NA
+911979333,"828a3d8c-f762-11e1-a439-00145eb45e9a",13.87195,51.517783,NA,2011,"8",3,"Germany","29516",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi","Schipkau","GBIF",NA
+NA,NA,13.026685,47.692,NA,1989,"17. sept.",NA,"GERMANY","38724","H. Sipman","BERLIN_DB",NA,"GERMANY, BAYERN. Berchtesgaden, Marktschellenberg.Along trail to Salzburger Hochthron, on Hochbartkogel. Alt. 750 m.","BERLIN_DB","B 60 0077975"
+2449363265,"85739778-f762-11e1-a439-00145eb45e9a",5.2283,52.4167,NA,1983,"7",3,"Netherlands","113858","H. Sipman","B","Lichen Herbarium Berlin","THE NETHERLANDS, Flevoland: Zuidelijk Flevoland, E of De Block van Kuffeler. Grid 26.21.35+45. Elev. -3 m.","GBIF",NA
+2449367286,"85739778-f762-11e1-a439-00145eb45e9a",6.1167,53.25,NA,1977,"9",24,"Netherlands","113041","H. Sipman","B","Lichen Herbarium Berlin","THE NETHERLANDS, Friesland: Kollumerland, Estate Vogelenzangstate, near Veenklooster, W of Buitenpost. Elev. c. 5 m.","GBIF",NA
+788545837,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",10.776389,47.538611,"Bayern",1968,"8",28,"Germany","1302967","A. Schröppel","LD","General","Bleckenau","GBIF",NA
+NA,NA,10.564371,47.569483,NA,1956,"17.5.1956",NA,NA,"M-0163748","A. Schröppel","MUNICH_HTL",NA,"Germany, Bavaria, Allgäu, Pfronten, Steinach","MUNICH_HTL",NA
+NA,NA,10.574982,47.547683,NA,1954,"15.8.1954",NA,NA,"M-0163737","A. Schröppel","MUNICH_HTL",NA,"Germany, Bavaria, Allgäu, Pfronten, Reichenbach","MUNICH_HTL",NA
+NA,NA,10.481094,47.565849,NA,1953,"4.3.1953",NA,NA,"M-0163753","A. Schröppel","MUNICH_HTL",NA,"Germany, Bavaria, Allgäu, Pfronten, Vilstal","MUNICH_HTL",NA
+788574362,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.80583,54.18883,"Schleswig-Holstein",1950,"4",30,"Germany","1332393","W. Saxen","LD","General","No locality information available","GBIF",NA
+788574528,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.80583,54.18883,"Schleswig-Holstein",1950,"4",30,"Germany","1332573","W. Saxen","LD","General","No locality information available","GBIF",NA
+788574641,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.80583,54.18883,"Schleswig-Holstein",1950,"4",30,"Germany","1332693","W. Saxen","LD","General","No locality information available","GBIF",NA
+788550739,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.80583,54.18883,"Schleswig-Holstein",1950,"5",21,"Germany","1307887","W. Saxen","LD","General","No locality information available","GBIF",NA
+788550799,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.2975,54.407222,"Schleswig-Holstein",1950,"5",28,"Germany","1307947","W. Saxen","LD","General","Wohlde","GBIF",NA
+788580022,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.340556,48.791667,"Baden-Württemberg",1948,"3",13,"Germany","1338333","E. Putzler","LD","General","Stetten im Remstal","GBIF",NA
+788571506,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",10.305278,53.939167,"Schleswig-Holstein",1948,NA,NA,"Germany","1329393","Johannes Ullrich","LD","General","Bad Segeberg","GBIF",NA
+788550679,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.42322,48.9469,"Bayern",1896,"8",NA,"Germany","1307827","F. Arnold","LD","General","No locality information available","GBIF",NA
+788574252,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.346667,47.936389,"Bayern",1893,"6",18,"Germany","1332273","Arnold","LD","General","Allmannshausen","GBIF",NA
+NA,NA,8.020932,53.18471,NA,1892,"Jan.",NA,"GERMANY","148576","Sandstede","BERLIN_DB",NA,"DEUTSCHLAND, Niedersachsen: [Ohrwege bei Zwischenahn in Oldenburg]","BERLIN_DB","B 60 0024654"
+NA,NA,12.01127,47.866213,NA,1882,"21-May",NA,"GERMANY","191533","Arnold","BERLIN_DB",NA,"DEUTSCHLAND, Bayern: [Hochpangerfilz bei Aibling in Oberbayern]","BERLIN_DB","B 60 0024636"
+NA,NA,11.505027,47.752339,NA,1880,"Oct.",NA,"GERMANY","191534","Arnold","BERLIN_DB",NA,"DEUTSCHLAND, Bayern: [An Buchen in der Waldschlucht des Zwiesel ober dem Stallauer Weier bei Tölz, Oberbayern]","BERLIN_DB","B 60 0024635"
+NA,NA,11.505027,47.752339,NA,1880,"Oct.",NA,"GERMANY","191535","Arnold","BERLIN_DB",NA,"DEUTSCHLAND, Bayern: [An Buchen in der Waldschlucht des Zwiesel ober dem Stallauer Weier bei Tölz, Oberbayern]","BERLIN_DB","B 60 0024653"
+788574194,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.42322,48.9469,"Bayern",1869,"7",NA,"Germany","1332213A","Krempelhuber","LD","General","No locality information available","GBIF",NA
+788574585,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.42322,48.9469,"Bayern",1862,"8",NA,"Germany","1332633","Arnold","LD","General","No locality information available","GBIF",NA

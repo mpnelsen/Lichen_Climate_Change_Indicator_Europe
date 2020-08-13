@@ -1,0 +1,31 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","year","month","day","country","locality","catalogNumber","recordedBy","institutionCode","stateProvince","collectionCode","DB","BBarcode"
+2235561943,"e553568e-2317-4592-8638-92e5ac93b40c",6.1025,49.16417,2018,"9",25,"France","La Côte","NCY021835","Mahévas, Th.","CJBN","57 Moselle","NCY","GBIF",NA
+1657195734,"fb8ae15d-e30c-44b4-8f61-0bb0c1d90ff9",14.27556,45.33528,2016,"4",5,"Croatia","Primorsko-Goranska.Veprinac. neben Straße die vom asphaltiertem Sportplatz Richtung Zatka führt","000330132","Mayrhofer,Helmut & Prettner,Matthias","GZU",NA,"Herbarium GZU","GBIF",NA
+1833733355,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.531,51.300417,2016,"4",20,"Germany","Halbendorf/ Spree W","48989-771",NA,"FR",NA,"Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+1676072355,"828a3d8c-f762-11e1-a439-00145eb45e9a",7.059167,51.04255,2016,"6",26,"Germany","Leverkusen","43559",NA,"FR",NA,"Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+1288172519,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.2675,50.91305,2015,"10",13,"Germany","Kleiner Zschand, oberhalb vom Zeughausweg","42846",NA,"FR",NA,"Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+1212223069,"85739778-f762-11e1-a439-00145eb45e9a",13.1867,52.3883,2012,"4",13,"Germany","GERMANY, Brandenburg: Stahnsdorf, Südwest-Kirchhof, main entrance road. Alt. 50 m.","178256","H. Sipman & K. Rux","B",NA,"Lichen Herbarium Berlin","GBIF",NA
+1638417552,"fb8ae15d-e30c-44b4-8f61-0bb0c1d90ff9",13.65833,46.31667,2003,"7",6,"Slovenia","[Primorska] Southern Alps, Julian Alps, Lepena valley SSW of Soča (E of Bovec), on the riverbank of Lepenca","000315486","Mayrhofer,Helmut","GZU",NA,"Herbarium GZU","GBIF",NA
+1638417576,"fb8ae15d-e30c-44b4-8f61-0bb0c1d90ff9",13.65833,46.31667,2003,"7",6,"Slovenia","[Primorska] Southern Alps, Julian Alps, Lepena valley SSW of Soča (E of Bovec), on the riverbank of Lepenca","000315487","Mayrhofer,Helmut","GZU",NA,"Herbarium GZU","GBIF",NA
+NA,NA,7.079371,51.092065,2001,"19. April",NA,"GERMANY","DEUTSCHLAND, Nordrhein-Westfalen: Burscheid-Nagelsbaum, Rheinisch-Bergischer Kreis. Elev. 150 m, Rechtswert: 2575429, Hochwert: 5662286.","114925","I. Franzen","BERLIN_DB",NA,NA,"BERLIN_DB","B 60 0174247"
+2449357211,"85739778-f762-11e1-a439-00145eb45e9a",6.5667,47.8333,1983,"9",7,"France","FRANKREICH, Dep. Haute Saône: Faucogney, Mauern und Baumstämme im Ortskern ca.400 mü. NN.  und Porphyrfelsklippen östlich des Ortes ca. 450 m ü.NN.","114952","Frahm, Giese, Hakelier, Huerlimann, Padberg","B",NA,"Lichen Herbarium Berlin","GBIF",NA
+NA,NA,8.973013,49.54795,1961,"Oct.",NA,"GERMANY","GERMANY, Baden-Württemberg: Nordbaden, Odenwald, Gammelsbachtal valley between Beerfelden and Gammelsbach.","179385","H. Reznik","BERLIN_DB",NA,NA,"BERLIN_DB","B 60 0190612"
+NA,NA,8.973013,49.54795,1961,"Oct.",NA,"GERMANY","GERMANY, Baden-Württemberg: Nordbaden, Odenwald, Gammelsbachtal valley between Beerfelden and Gammelsbach.","179386","H. Reznik","BERLIN_DB",NA,NA,"BERLIN_DB","B 60 0190617"
+2449355644,"85739778-f762-11e1-a439-00145eb45e9a",8.3833,48.7333,1960,"11",28,"Germany","GERMANY, Baden-Württemberg: Nordschwarzwald, above Reichental.","179383","H. Reznik","B",NA,"Lichen Herbarium Berlin","GBIF",NA
+NA,NA,14.686908,53.335089,1956,"10.8.1956",NA,"Polen","Puszcza Bukowa",NA,"K. Glanc","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+NA,NA,9.188605,49.897008,1955,"28.8.1955",NA,"Deutschland","Spessart, Dornau",NA,"O. Behr","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+NA,NA,9.206308,49.945945,1955,"22.8.1955",NA,"Deutschland","Gailbach",NA,"O. Behr","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+NA,NA,9.337581,49.772063,1955,"26.9.1955",NA,"Deutschland","Fechenbach",NA,"O. Behr","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+NA,NA,7.235232,49.433776,1944,"16.4.1944",NA,"Deutschland","Dörrenbach",NA,"E. Müller","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+2237883549,"84d26682-f762-11e1-a439-00145eb45e9a",9.451133,54.84274,1939,"8",17,"Denmark","Kollund","DMS-1019762","Ove Almborn",NA,NA,NA,"GBIF",NA
+2237884095,"84d26682-f762-11e1-a439-00145eb45e9a",9.494762,54.859615,1939,"8",17,"Denmark","Sønderhav","DMS-1019717","Ove Almborn",NA,NA,NA,"GBIF",NA
+2237885979,"84d26682-f762-11e1-a439-00145eb45e9a",9.451133,54.84274,1939,"8",17,"Denmark","Kollund","DMS-1019763","Ove Almborn",NA,NA,NA,"GBIF",NA
+2238530935,"84d26682-f762-11e1-a439-00145eb45e9a",9.421356,54.83648,1939,"8",17,"Denmark","Kollund Skov","DMS-9235539","Ulrik Søchting",NA,NA,NA,"GBIF",NA
+2449365364,"85739778-f762-11e1-a439-00145eb45e9a",7.6717,47.6333,1929,"7",4,"Germany","DEUTSCHLAND, Baden-Württemberg: Haagen bei Lörrach, Röttler Wald.","118854","V. J. Grummann","B",NA,"Lichen Herbarium Berlin","GBIF",NA
+NA,NA,7.803333,50.044167,1922,"6.1922",NA,"Deutschland","Lorch am Rhein",NA,"G. Lettau","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+NA,NA,7.927965,47.553986,1915,"27.6.1915",NA,"Deutschland","Säckingen",NA,"G. Lettau","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+442145837,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.695556,47.643612,1914,"4",12,"Germany","Baden: Wald südlich Brombach (bei Lörrach), 300-400 m.","B 60 0035573 / 146168 / 90230","Lettau, G.","B",NA,"Blettaucoll","GBIF",NA
+442145875,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.649722,47.657501,1914,"11",22,"Germany","Baden: Wald oberhalb Wittlingen bei Lörrach","B 60 0036984 / 149575 / 91467","Lettau, G.","B",NA,"Blettaucoll","GBIF",NA
+NA,NA,7.991396,47.917493,1903,"1903",NA,"Deutschland","Zastler",NA,"A. Lösch","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+NA,NA,11.431423,48.103393,1897,"17.4.1897",NA,"Deutschland","Planegg",NA,"Arnold","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+1253518797,"858c1c6c-f762-11e1-a439-00145eb45e9a",11.454205,47.98925,1895,"4",11,"Germany","[München] Ebenhausen.","M-0042685 / 22388 / 14223","Schnabl, J.N.","SNSB-M",NA,"BSMlichfungicoll","GBIF",NA

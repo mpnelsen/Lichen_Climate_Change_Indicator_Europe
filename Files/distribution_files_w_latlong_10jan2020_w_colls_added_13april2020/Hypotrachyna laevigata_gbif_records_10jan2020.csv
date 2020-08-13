@@ -1,0 +1,5 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","stateProvince","year","month","day","country","locality","collectionCode","catalogNumber","recordedBy","institutionCode","DB"
+152930680,"89579e3e-f762-11e1-a439-00145eb45e9a",15.411793,46.399685,NA,1992,5,12,"Slovenia",NA,"FloVegSI-FLO","F776524","Batič F., Kruhar B.","ULBF-AGR","GBIF"
+788520262,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.42322,48.9469,"Bayern",1962,9,NA,"Germany","No locality information available","General","1276575B","Th. Schauer","LD","GBIF"
+788520261,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.42322,48.9469,"Bayern",1961,10,NA,"Germany","No locality information available","General","1276575A","Th. Schauer","LD","GBIF"
+788517846,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.186944,48.888333,"Bayern",1868,7,12,"Germany","Eichstätt","General","1274069","Arnold","LD","GBIF"

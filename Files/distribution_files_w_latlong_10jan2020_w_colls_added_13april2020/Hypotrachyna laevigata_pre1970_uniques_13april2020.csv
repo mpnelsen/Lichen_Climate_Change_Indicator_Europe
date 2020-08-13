@@ -1,0 +1,3 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","stateProvince","year","month","day","country","locality","collectionCode","catalogNumber","recordedBy","institutionCode","DB","b1test","name","BBarcode"
+788520262,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.42322,48.9469,"Bayern",1962,9,NA,"Germany","No locality information available","General","1276575B","Th. Schauer","LD","GBIF",77,"Hypotrachyna laevigata",NA
+788517846,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.186944,48.888333,"Bayern",1868,7,12,"Germany","Eichstätt","General","1274069","Arnold","LD","GBIF",80,"Hypotrachyna laevigata",NA

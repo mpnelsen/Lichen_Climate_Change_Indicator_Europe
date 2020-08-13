@@ -1,0 +1,21 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","year","month","day","country","locality","catalogNumber","recordedBy","institutionCode","collectionCode","stateProvince","DB","BBarcode"
+1270675813,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.26905,50.919533,2015,"10",13,"Germany","Kleiner Zschand","42850",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1052816209,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.2985,50.898583,2013,"10",29,"Germany","Großer Zschand","38540",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+911957251,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.366667,50.8975,2012,"10",22,"Germany","Elbsandsteingebirge, Kirnitzschklamm","33893",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+911957253,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.10195,50.966667,2012,"10",9,"Germany","Elbsandsteingebirge, mittleres Polenztal zwischen Gasthof Polenztal und Waltersdorfer Schleuse","34022",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+911957248,"828a3d8c-f762-11e1-a439-00145eb45e9a",23.8,52.675,2011,"4",22,"Poland","Jagie&#322;ouska Droga im Walde südwestlich von Bialowieza","35848",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1212104651,"85739778-f762-11e1-a439-00145eb45e9a",6.5067,46.6633,2007,"1",13,"Switzerland","SWITZERLAND: between Lac de Neuchatel and Lac Léman, between La Sarraz and Pomplades. Alt. 535 m.","109343","P. van der Knaap & J. van Leeuwen","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+1212103534,"85739778-f762-11e1-a439-00145eb45e9a",13.7683,53.0483,2007,"3",24,"Germany","GERMANY, Brandenburg: Landkr. Uckermark. NSG Poratzer Moränenlandschaft. W of Luisenau. Alt. 75 m.","99034","H. Sipman, A. Aptroot & D. Heinrich","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+NA,NA,6.611453,50.241247,2005,"7-May",NA,"GERMANY","GERMANY, Rheinland-Pfalz, Kr. Daun: Müllenborn NW of Gerolstein, Felssturz area. Alt. ca. 400 m.","67666","H. Sipman","BERLIN_DB",NA,NA,"BERLIN_DB","B 60 0129954"
+152924029,"89579e3e-f762-11e1-a439-00145eb45e9a",13.911995,46.399623,2002,"6",19,"Slovenia","Stara Fužina","F957785","Batič F., Mrak T.","ULBF-AGR","FloVegSI-FLO","Gorenjska","GBIF",NA
+NA,NA,10.276951,48.455989,1969,"15.8.1969",NA,NA,"Germany, Bavaria, Lkr. Günzburg, SE of Limbach","M-0034284","H. & H. Doppelbaur","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+NA,NA,11.17186,49.46476,1960,"13.2.1960",NA,NA,"Germany, Bavaria, Oberfranken, between Sachsenmühle and Gailenreuth","M-0034283","J. Poelt","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+NA,NA,6.798316,50.076884,1954,"",NA,"GERMANY","DEUTSCHLAND, Rheinland-Pfalz: Horngraben bei Manderscheid.","97419","Th. Müller","BERLIN_DB",NA,NA,"BERLIN_DB","B 60 0141266"
+1086218202,"fe35d6a0-0c6e-11dd-84d2-b8a03c50a862",14,55,1947,"7",13,"Sweden","Skåne, St Olof par., S of Måsalycke","L8984","R. Santesson","S","S-Fungi","Skåne","GBIF",NA
+NA,NA,14.183188,49.933728,1933,"1933",NA,NA,"Czech Republic, Bohemia, Budńany at Berounka river, near Karlštejn","M-0034250","J. Suza","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+442142284,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.773611,47.72361,1914,"4",13,"Germany","1) Baden: Sallneck (Schopfheim)","B 60 0028460 / 145788 / 90081","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+NA,NA,11.583333,48.15,1897,"5.1897",NA,NA,"Germany, Bavaria, Munich","M-0034286","Arnold","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+NA,NA,11.583333,48.15,1895,"20.4.1895",NA,NA,"Germany, Bavaria, Munich","M-0034287","Arnold","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+NA,NA,11.583333,48.15,1892,"24.5.1892",NA,NA,"Germany, Bavaria, Munich","M-0034285","Arnold","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+NA,NA,9.931172,47.662616,1886,"7.1886",NA,NA,"Germany, Bavaria, Allgäu, Eglofs","M-0034280","","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+1503046247,"aec6d756-3aa8-465e-83fd-4f6ee83e693e",10.5,51.5,1869,"6",3,"Germany",NA,"C0059153F","F. W. Sauerbeck","F","Botany",NA,"GBIF",NA

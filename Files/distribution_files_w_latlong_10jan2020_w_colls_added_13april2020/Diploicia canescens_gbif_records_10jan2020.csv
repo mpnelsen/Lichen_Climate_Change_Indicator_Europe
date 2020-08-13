@@ -1,0 +1,43 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","year","month","day","country","catalogNumber","recordedBy","institutionCode","locality","collectionCode","stateProvince","DB","BBarcode"
+2013824339,"828a3d8c-f762-11e1-a439-00145eb45e9a",19.95555,48.21805,2018,"5",23,"Slovakia","54450-771",NA,"FR","Pirsenstein (Hajnácka), Burgberg","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1675761138,"828a3d8c-f762-11e1-a439-00145eb45e9a",7.272217,50.168617,2016,"6",25,"Germany","43382",NA,"FR","Pommern an der Mosel","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+788472325,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",8.011944,53.544444,2006,"11",NA,"Germany","1226506","Uwe de Bruyn","LD","Accum","General","Niedersachsen","GBIF",NA
+788472384,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",8.046667,53.592222,2006,"11",NA,"Germany","1226566","Uwe de Bruyn","LD","Sengwarden","General","Niedersachsen","GBIF",NA
+1212094716,"85739778-f762-11e1-a439-00145eb45e9a",6.6233,50.2217,2005,"5",5,"Germany","67735","H. Sipman","B","GERMANY, Rheinland-Pfalz, Kr. Daun: Wöllersberg, N of Lissingen near Gerolstein. Alt. c. 400 m.","Lichen Herbarium Berlin",NA,"GBIF",NA
+991956574,"828a3d8c-f762-11e1-a439-00145eb45e9a",7.221383,53.414167,2004,"10",23,"Germany","22271",NA,"FR","Suurhusen, bei der Kirche","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1675760900,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.129167,49.355,1999,"5",15,"Germany","67286",NA,"FR","Haardt, The Wolfsberg northwest near Neustadt a. d. Weinstraße, southeastslope, (abandoned) vineyard","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1212098084,"85739778-f762-11e1-a439-00145eb45e9a",16.3833,47.3167,1991,"4",11,"Austria","138241","J. Hafellner & W. Maurer","B","AUSTRIA, Burgenland, Günser Gebirge, 5 km WNW Rechnitz, vineyard S of Althodis. Alt. 440 m.","Lichen Herbarium Berlin",NA,"GBIF",NA
+2513315605,"15f819bd-6612-4447-854b-14d12ee1022d",5.12,52.09,1988,"1",30,"Netherlands","L  0829585","Bakker S",NA,"Lepelenburg, Utrecht.","Botany","Utrecht","GBIF",NA
+2237883463,"84d26682-f762-11e1-a439-00145eb45e9a",9.954466,54.96565,1979,"8",19,"Denmark","DMS-1019658","Knud Ramkær",NA,"Asserballe",NA,NA,"GBIF",NA
+2237876981,"84d26682-f762-11e1-a439-00145eb45e9a",11.60039,54.72227,1977,"7",23,"Denmark","DMS-1013974","Mogens Skytte Christiansen",NA,"Godsted",NA,NA,"GBIF",NA
+2237907306,"84d26682-f762-11e1-a439-00145eb45e9a",9.750667,54.950635,1972,"2",12,"Denmark","DMS-1043427","Svanhildur Svane",NA,"Sandbjerg Gods",NA,NA,"GBIF",NA
+741254,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",10.713611,54.772778,1967,"7",14,"Denmark","1087658","Gunnar Degelius","LD","Magleby","General","Langeland","GBIF",NA
+NA,NA,19.9524,48.216169,1965,"19.8.1965",NA,NA,"M-0302898","I. Pišút","MUNICH_HTL","Slovakia, Ragačské kpce, Hajnáčka",NA,NA,"MUNICH_HTL",NA
+NA,NA,6.760524,50.553692,1964,"11. April",NA,"GERMANY","97398","H. Breuer","BERLIN_DB","DEUTSCHLAND, Nordrhein-Westfalen: Münstereifel, Stadtmauer.",NA,NA,"BERLIN_DB","B 60 0141333"
+NA,NA,6.795323,50.671785,1963,"Dezember",NA,"GERMANY","107205","Th. Müller","BERLIN_DB","DEUTSCHLAND, Nordrhein-Westfalen: Kl. Vernich, Kreis Euskirchen, Erft-Ufer, 120 m s.m.",NA,NA,"BERLIN_DB","B 60 0159140"
+NA,NA,6.826539,50.735849,1959,"16. Aug.",NA,"GERMANY","97396","Th. Müller","BERLIN_DB","DEUTSCHLAND, Nordrhein-Westfalen: Kr. Euskirchen, Vernich, Kopfweide, Erftufer. Alt. 120 m ü. M.",NA,NA,"BERLIN_DB","B 60 0141335"
+NA,NA,6.826539,50.735849,1959,"16. Aug.",NA,"GERMANY","97397","Th. Müller","BERLIN_DB","DEUTSCHLAND, Nordrhein-Westfalen: Kr. Euskirchen, Vernich, Kopfweide, Erftufer. Alt. 120 m ü. M.",NA,NA,"BERLIN_DB","B 60 0141334"
+2513163952,"15f819bd-6612-4447-854b-14d12ee1022d",5.690973,50.851368,1950,"5",25,"Netherlands","L  0165895","Maas Geesteranus RA",NA,"Kasteel Neercanne","Botany","Limburg","GBIF",NA
+2237906482,"84d26682-f762-11e1-a439-00145eb45e9a",12.1,54.85,1943,"5",31,"Denmark","DMS-1040886","Mogens Skytte Christiansen",NA,"Åstrup",NA,NA,"GBIF",NA
+2237877209,"84d26682-f762-11e1-a439-00145eb45e9a",12.20813,54.94154,1943,"6",1,"Denmark","DMS-1013841","Mogens Skytte Christiansen",NA,"Marienborg",NA,NA,"GBIF",NA
+2237877032,"84d26682-f762-11e1-a439-00145eb45e9a",11.21721,54.91115,1942,"8",9,"Denmark","DMS-1014227","Paul Gelting",NA,"Horslunde",NA,NA,"GBIF",NA
+2513163992,"15f819bd-6612-4447-854b-14d12ee1022d",5.250773,51.813554,1942,"12",20,"Netherlands","L  0165824","Maas Geesteranus RA",NA,"Gameren","Botany","Gelderland","GBIF",NA
+991956539,"828a3d8c-f762-11e1-a439-00145eb45e9a",6.896667,50.826383,1939,"2",5,"Germany","9656",NA,"FR","Brühl b. Köln","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+2513164437,"15f819bd-6612-4447-854b-14d12ee1022d",5.883333,51.883333,1939,"4",30,"Netherlands","L  0165753","Soest JL van; Groot van",NA,NA,"Botany","Gelderland","GBIF",NA
+2513165776,"15f819bd-6612-4447-854b-14d12ee1022d",5.883333,51.883333,1939,"4",30,"Netherlands","L  0165770","Groot; Soest JL van",NA,NA,"Botany","Gelderland","GBIF",NA
+991956544,"828a3d8c-f762-11e1-a439-00145eb45e9a",6.482783,50.6925,1938,"6",19,"Germany","9653",NA,"FR","Eifel, Nideggen","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+991956552,"828a3d8c-f762-11e1-a439-00145eb45e9a",6.99305,50.517217,1938,"6",5,"Germany","9669",NA,"FR","Eifel, Altenahr","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+991956543,"828a3d8c-f762-11e1-a439-00145eb45e9a",13.859717,50.931667,1937,"4",29,"Germany","9654",NA,"FR","Elbhügelland, Weesenstein, Müglitztal auf dem Rabenhorstfelsen bei der Bastion","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+991956549,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.033617,50.957783,1937,"6",7,"Germany","9652",NA,"FR","Elbsandsteingebirge, Wehlen, auf der Burg","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+991956557,"828a3d8c-f762-11e1-a439-00145eb45e9a",7.85,49.8075,1937,"7",10,"Germany","9668",NA,"FR","Bad Kreuznach, Rheingrafenstein bei Münster am Stein","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+991956558,"828a3d8c-f762-11e1-a439-00145eb45e9a",7.85,49.8075,1937,"7",10,"Germany","9671",NA,"FR","Bad Kreuznach, Rheingrafenstein bei Münster am Stein","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+NA,NA,14.353428,50.108155,1934,"1934",NA,NA,"M-0302899","J. Suza","MUNICH_HTL","Czech Republic, Bohemia, Prague, near Jenerálka, in the Šárka valley",NA,NA,"MUNICH_HTL",NA
+991956545,"828a3d8c-f762-11e1-a439-00145eb45e9a",12.163617,50.58945,1933,"9",7,"Germany","9658",NA,"FR","Vogtland, Plauen, am Elsteruferweg Rentzschmühle - Elsterberg","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+991956548,"828a3d8c-f762-11e1-a439-00145eb45e9a",12.163617,50.58945,1933,"9",7,"Germany","9655",NA,"FR","Vogtland, Plauen, am Elsteruferweg Rentzschmühle - Elsterberg","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+NA,NA,19.9524,48.216169,1933,"1933",NA,NA,"M-0302901","J. Suza","MUNICH_HTL","Slovakia, Ragačské kpce, Hajnáčka",NA,NA,"MUNICH_HTL",NA
+991956553,"828a3d8c-f762-11e1-a439-00145eb45e9a",13.921383,50.939167,1932,"9",17,"Germany","9657",NA,"FR","Pirna: im Seidewitztal","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+NA,NA,14.790919,50.61258,1932,"1932",NA,NA,"M-0302900","J. Suza","MUNICH_HTL","Czech Republic, Mimoń, Ralsko",NA,NA,"MUNICH_HTL",NA
+2513164194,"15f819bd-6612-4447-854b-14d12ee1022d",5.12,52.09,1930,"3",26,"Netherlands","L  0165817","Ooststroom SJ van",NA,"Kromme Rijn","Botany","Utrecht","GBIF",NA
+2513166067,"15f819bd-6612-4447-854b-14d12ee1022d",5.12,52.09,1930,"3",26,"Netherlands","L  0165798","Ooststroom SJ van",NA,"Kromme Rijn","Botany","Utrecht","GBIF",NA
+991956542,"828a3d8c-f762-11e1-a439-00145eb45e9a",9.964167,51.22695,1922,NA,NA,"Germany","9664",NA,"FR","Bilstein im Höllental, beim Meißner","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+991956578,"828a3d8c-f762-11e1-a439-00145eb45e9a",6.704167,53.606667,1890,NA,NA,"Germany","24155",NA,"FR","Borkum","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA

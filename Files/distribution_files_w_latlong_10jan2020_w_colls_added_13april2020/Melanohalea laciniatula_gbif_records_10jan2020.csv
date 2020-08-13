@@ -1,0 +1,64 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","year","month","day","country","locality","catalogNumber","recordedBy","institutionCode","collectionCode","stateProvince","DB","BBarcode"
+1676058231,"828a3d8c-f762-11e1-a439-00145eb45e9a",7.06075,51.043667,2016,"6",26,"Germany","Leverkusen. Oulustraße","43407",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1212166920,"85739778-f762-11e1-a439-00145eb45e9a",13.885,52.42,2011,"6",10,"Germany","DEUTSCHLAND, Brandenburg: Löcknitztal, c. 4 Km östl. von Erkner. Klein Wall. Alt. c. 40 m.","137920","Jörg GELBRECHT","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+152938621,"89579e3e-f762-11e1-a439-00145eb45e9a",13.745359,46.299628,2002,"5",16,"Slovenia","Ukanc","F957260","Mrak T.","ULBF-AGR","FloVegSI-FLO","Gorenjska","GBIF",NA
+152938620,"89579e3e-f762-11e1-a439-00145eb45e9a",13.745359,46.299628,2002,"9",7,"Slovenia","Stadorski Orliči","F957245","Mrak T.","ULBF-AGR","FloVegSI-FLO","Gorenjska","GBIF",NA
+1676057915,"828a3d8c-f762-11e1-a439-00145eb45e9a",7.978889,49.196111,1998,"10",4,"Germany","Pfälzerwald. Burg Trifels südl. bei Annweiler, bei den Ruinen des Brunnenturmes","61359",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+152937776,"89579e3e-f762-11e1-a439-00145eb45e9a",14.411987,45.699727,1997,"8",10,"Slovenia","Snežnik","F1017157","Pruegger J.","ULBF-AGR","FloVegSI-FLO","Notranjska","GBIF",NA
+152937784,"89579e3e-f762-11e1-a439-00145eb45e9a",14.411987,45.699727,1997,"10",3,"Slovenia","Snežnik","F1017165","Pruegger J.","ULBF-AGR","FloVegSI-FLO","Notranjska","GBIF",NA
+152938458,"89579e3e-f762-11e1-a439-00145eb45e9a",13.745376,46.099652,1995,"5",12,"Slovenia",NA,"F779901","Pruegger J.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+152938314,"89579e3e-f762-11e1-a439-00145eb45e9a",14.411987,45.699727,1992,"10",13,"Slovenia",NA,"F776306","Batič F.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+152938315,"89579e3e-f762-11e1-a439-00145eb45e9a",14.411987,45.699727,1992,"10",13,"Slovenia",NA,"F776336","Batič F., Kruhar B.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+152938276,"89579e3e-f762-11e1-a439-00145eb45e9a",14.411987,45.699727,1987,"9",15,"Slovenia",NA,"F775704","Batič F.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+152938279,"89579e3e-f762-11e1-a439-00145eb45e9a",14.411987,45.699727,1987,"9",15,"Slovenia",NA,"F775754","Batič F.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+152938275,"89579e3e-f762-11e1-a439-00145eb45e9a",15.078565,45.699754,1975,"8",15,"Slovenia",NA,"F775653","Batič F.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+911996864,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.244033,48.492217,1974,"7",1,"Germany","Schwarzwald, Schwarzwaldhochstraße beim Hotel ""Zuflucht""","17755",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+2237884097,"84d26682-f762-11e1-a439-00145eb45e9a",8.802245,54.94298,1972,"9",7,"Denmark","Møgeltønder","DMS-1020589","Mogens Skytte Christiansen",NA,NA,NA,"GBIF",NA
+NA,NA,8.41371,48.466951,1969,"26.7.1969",NA,"Deutschland","Freudenstadt",NA,"H. Schindler","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+911996953,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.325283,48.519717,1968,"6",8,"Germany","Schwarzwald, Baiersbronn, an der Straße in Mitteltal","17763",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+911996798,"828a3d8c-f762-11e1-a439-00145eb45e9a",8.37555,48.504167,1968,"7",8,"Germany","Schwarzwald, Freudenstadt, nahe dem Hotel ""Rappen""","8184",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+NA,NA,8.104946,47.904024,1968,"10.1968",NA,NA,"Germany, Baden-Württemberg, Black Forest, near Hinterzarten","M-0302877","F. Schuhwerk","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+2237885240,"84d26682-f762-11e1-a439-00145eb45e9a",9.404335,54.85168,1967,"7",4,"Denmark","Kruså","DMS-1019729","Svanhildur Svane",NA,NA,NA,"GBIF",NA
+NA,NA,15.384273,49.227981,1965,"6.1965",NA,NA,"Czech Republic, Moravia, Telč, near Vel. Parezity","M-0302879","A. Vezda","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+NA,NA,6.477831,50.360743,1963,"13. Sept.",NA,"GERMANY","DEUTSCHLAND, Nordrhein-Westfalen: Kr. Schleiden, Kronenburg, Hammerhütte, Kyllbrücke.","97538","H. Breuer","BERLIN_DB",NA,NA,"BERLIN_DB","B 60 0141407"
+NA,NA,6.48731,50.360852,1963,"09. Sept.",NA,"GERMANY","DEUTSCHLAND, Nordrhein-Westfalen: Kr. Schleiden, Kronenburg, Kyll-Tal. Alt. 460 m ü. M.","97537","H. Breuer","BERLIN_DB",NA,NA,"BERLIN_DB","B 60 0141408"
+NA,NA,9.561385,50.67471,1961,"10.1961",NA,"Deutschland","Schlitz",NA,"W.U. Berthold","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+788508245,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",17.95532,49.83548,1955,"9",15,"Czechia","No locality information available","1264033","A. Vezda","LD","General","Moravskoslezsky kraj","GBIF",NA
+788521889,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",17.95532,49.83548,1954,"6",NA,"Czechia","No locality information available","1278313","A. Vezda","LD","General","Moravskoslezsky kraj","GBIF",NA
+2237883911,"84d26682-f762-11e1-a439-00145eb45e9a",9.451133,54.84274,1953,"7",3,"Denmark","Kollund","DMS-1019757","Mogens Skytte Christiansen",NA,NA,NA,"GBIF",NA
+788523486,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.80583,54.18883,1950,"5",NA,"Germany","No locality information available","1279945","W. Saxen","LD","General","Schleswig-Holstein","GBIF",NA
+788523603,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",10.305278,53.939167,1948,NA,NA,"Germany","Bad Segeberg","1280065","Johannes Ullrich","LD","General","Schleswig-Holstein","GBIF",NA
+1086238398,"fe35d6a0-0c6e-11dd-84d2-b8a03c50a862",14,55,1943,"6",9,"Sweden","Skåne Smedstorp: Tunbyholm","L20008","Ove Almborn","S","S-Fungi","Skåne","GBIF",NA
+1086238567,"fe35d6a0-0c6e-11dd-84d2-b8a03c50a862",14,55,1943,"6",9,"Sweden","Skåne Vallby: Glimmingehus","L20052","Ove Almborn","S","S-Fungi","Skåne","GBIF",NA
+788516618,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",5.17735,52.09596,1943,"9",11,"Netherlands","No locality information available","1272797","R. A. Maas Geesteranus","LD","General","Utrecht","GBIF",NA
+1086238363,"fe35d6a0-0c6e-11dd-84d2-b8a03c50a862",14,55,1940,"6",27,"Sweden","Skåne Degeberga: vid vägen mot Huaröd","L20002","Ove Almborn","S","S-Fungi","Skåne","GBIF",NA
+2237865844,"84d26682-f762-11e1-a439-00145eb45e9a",12.53299,54.97022,1939,"8",6,"Denmark","Store Klinteskov","DMS-1004630","Ove Almborn",NA,NA,NA,"GBIF",NA
+886244,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",10.844167,54.997222,1939,"8",11,"Denmark","Tranekær","1071249","Ove Almborn","LD","General","Langeland","GBIF",NA
+788507954,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.80583,54.18883,1938,"8",15,"Germany","No locality information available","1263733","Ove Almborn","LD","General","Schleswig-Holstein","GBIF",NA
+788508013,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.904167,53.731944,1938,"8",13,"Germany","Quickborn","1263793","Ove Almborn","LD","General","Schleswig-Holstein","GBIF",NA
+788508071,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",12.53758,53.75312,1938,"8",17,"Germany","No locality information available","1263853","Ove Almborn","LD","General","Mecklenburg-Vorpommern","GBIF",NA
+788508129,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",13.659722,54.573056,1938,"8",25,"Germany","Rügen: Stubbenkammer","1263913","Ove Almborn","LD","General","Mecklenburg-Vorpommern","GBIF",NA
+788516503,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",10.796111,53.887778,1938,"8",16,"Germany","Schlutup","1272677","Ove Almborn","LD","General","Schleswig-Holstein","GBIF",NA
+788508187,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",9.435833,54.780278,1935,"8",NA,"Germany","Flensburg","1263973","C. F. E. Erichsen","LD","General","Schleswig-Holstein","GBIF",NA
+788516560,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",17.95532,49.83548,1926,NA,NA,"Czechia","No locality information available","1272737","J. Suza","LD","General","Moravskoslezsky kraj","GBIF",NA
+1055827836,"7e380070-f762-11e1-a439-00145eb45e9a",15.338413,49.74286,1922,NA,NA,"Czechia",NA,"BM000749027","Jindřich Suza","NHMUK","BOT",NA,"GBIF",NA
+NA,NA,9.923903,50.508277,1922,"6.1922",NA,"Deutschland","Abtsroda",NA,"G. Lettau","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+442144852,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.901667,47.91111,1921,"8",7,"Germany","Schwarzwald: Schauinsland - Hundsrücken (bei Freiburg), 1200 m.","B 60 0030136 / 145854 / 90104","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442144899,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.901667,47.91111,1921,"8",7,"Germany","Schwarzwald: Schauinsland bei Freiburg, am Gipfel. 1250-1275 m.","B 60 0128091 / 149556 / 91458","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145622,"8589cc8c-f762-11e1-a439-00145eb45e9a",8.031944,48.016666,1921,"8",NA,"Germany","Schwarzwald: St. Peter (bei Freiburg), 750 m.","B 60 0030931 / 145940 / 90134","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442144886,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.947222,47.831665,1916,"6",25,"Germany","Schwarzwald: Todtnau - Aftersteg","B 60 0111806 / 148136 / 90971","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442144887,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.968333,47.779724,1916,"7",16,"Germany","Schwarzwald: Präg - Herrenschwand (bei Schönau)","B 60 0111843 / 147788 / 90859","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145621,"8589cc8c-f762-11e1-a439-00145eb45e9a",8.034722,47.802776,1916,"8",12,"Germany","Schwarzwald: Bernau, gegen die ""Wacht""","B 60 0030930 / 145937 / 90133","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442144872,"8589cc8c-f762-11e1-a439-00145eb45e9a",10.900278,50.499722,1915,"8",9,"Germany","Thüringer Wald: 2) Schnett","B 60 0030933a / 149935 / 91617","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442144873,"8589cc8c-f762-11e1-a439-00145eb45e9a",10.726666,50.705833,1915,"8",28,"Germany","Thüringer Wald: 2) Oberhof gegen Rondel","B 60 0030934a / 149937 / 91618","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145624,"8589cc8c-f762-11e1-a439-00145eb45e9a",10.935278,50.583057,1915,"8",9,"Germany","Thüringer Wald: 1) Kahlert","B 60 0030933 / 145934 / 90132","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+NA,NA,10.727163,50.704353,1915,"14.7.1915",NA,"Deutschland","Oberhof",NA,"J. Hillmann","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+442145619,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.953333,47.768612,1914,"7",5,"Germany","Schwarzwald: Herrenschwand bei Schönau, ca. 1050 m.","B 60 0030928 / 145932 / 90131","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145616,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.956111,47.649445,1913,"10",19,"Germany","Schwarzwald: Atdorf bei Wehr","B 60 0030924 / 145919 / 90127","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145620,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.9175,47.858334,1913,"10",12,"Germany","Schwarzwald: Nördlich Muggenbrunn","B 60 0030928a / 149929 / 91615","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442144850,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.914166,47.827778,1912,"5",27,"Germany","[Schwarzwald] Baden: Knöpflesbrunnen bei Todtnau","B 60 0030131 / 145872 / 90109","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145617,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.914166,47.827778,1912,"5",27,"Germany","Schwarzwald: Knöpflesbrunnen bei Todtnau","B 60 0030925 / 145923 / 90128","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145618,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.947222,47.831665,1912,"5",27,"Germany","[Schwarzwald] Baden: Todtnau gegen Knöpflesbrunnen, 900 m.","B 60 0030926 / 145926 / 90129","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145623,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.941389,47.851665,1912,"6",23,"Germany","[Schwarzwald] Baden: Oberhalb Todtnauberg (unweit ""Radschert"")","B 60 0030931a / 149931 / 91616","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145625,"8589cc8c-f762-11e1-a439-00145eb45e9a",10.612223,50.716389,1909,"5",23,"Germany","Thüringer Wald: 1) Zwischen Mehlis und Oberschönau","B 60 0030934 / 145928 / 90130","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442144874,"8589cc8c-f762-11e1-a439-00145eb45e9a",8.053611,47.859444,1903,"6",1,"Germany","Badischer Schwarzwald: Unweit Zastlerhütte, (beim Feldberg), 1260 m.","B 60 0030936 / 145942 / 90135","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA

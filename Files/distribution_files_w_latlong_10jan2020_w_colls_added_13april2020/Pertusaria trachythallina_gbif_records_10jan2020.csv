@@ -1,0 +1,5 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","year","month","day","country","catalogNumber","institutionCode","locality","collectionCode","stateProvince","recordedBy","DB"
+442146223,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.675,47.660557,1910,5,8,"Germany","B 60 0069793 / 147411 / 90720","B","Baden: Röttler Wald, nahe beim Röttler Schloss","Blettaucoll",NA,"Lettau, G.","GBIF"
+NA,NA,11.583333,48.15,1879,1879,NA,"Deutschland",NA,"BERLIN_HTL","München",NA,NA,"Arnold","BERLIN_HTL"
+NA,NA,11.196753,48.888543,1868,1868,NA,"Deutschland",NA,"BERLIN_HTL","Eichstätt",NA,NA,"Arnold","BERLIN_HTL"
+NA,NA,8.683733,49.404123,1857,1857,NA,"Deutschland",NA,"BERLIN_HTL","Heidelberg",NA,NA,"von Zwackh","BERLIN_HTL"

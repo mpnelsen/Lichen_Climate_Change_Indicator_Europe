@@ -1,0 +1,71 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","year","month","day","country","locality","catalogNumber","recordedBy","institutionCode","collectionCode","stateProvince","DB","BBarcode"
+2303272844,"828a3d8c-f762-11e1-a439-00145eb45e9a",24.12255,47.943633,2018,"7",20,"Ukraine","Talhang über dem Bache Kuzij","54725-771",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1945780424,"828a3d8c-f762-11e1-a439-00145eb45e9a",9.828133,53.469367,2018,"8",9,"Germany","Hamburg-Fischbek: Scharlbarg","54733-771",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1638419050,"fb8ae15d-e30c-44b4-8f61-0bb0c1d90ff9",14.22944,45.33139,2016,"4",6,"Croatia","Primorsko-Goranska. Učka. Passstraße zwischen Poklon und Veprinac. Panjak fireroad, E von Ravne staje","000330016","Mayrhofer,Helmut, Prettner,Matthias & Grozić,Dino","GZU","Herbarium GZU",NA,"GBIF",NA
+1657195746,"fb8ae15d-e30c-44b4-8f61-0bb0c1d90ff9",14.27556,45.33528,2016,"4",5,"Croatia","Primorsko-Goranska.Veprinac. neben Straße die vom asphaltiertem Sportplatz Richtung Zatka führt","000330172","Mayrhofer,Helmut & Prettner,Matthias","GZU","Herbarium GZU",NA,"GBIF",NA
+1657195155,"fb8ae15d-e30c-44b4-8f61-0bb0c1d90ff9",14.20667,45.30667,2015,"4",25,"Croatia","Istrien. Učka. Poklon, Passstraße über die Učka, Parkplatz des Restaurants Dopolavoro; Alleebäume entlang der Passstraße","000324357","Mayrhofer,Helmut, Seifter,Katharina & Župan,Dijana","GZU","Herbarium GZU",NA,"GBIF",NA
+1676070681,"828a3d8c-f762-11e1-a439-00145eb45e9a",10.82,45.737778,2011,"6",20,"Italy","Prov. Verona, Prealpina Gardesana, Monte Baldo, The Cima del Longino, westslope, the Val Finestra","67318",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1676070685,"828a3d8c-f762-11e1-a439-00145eb45e9a",10.808889,45.7425,2011,"6",22,"Italy","Prov. Verona, Prealpina Gardesana, Monte Baldo, The Cima Valdritta, northwestslope, vicinity of Malga Fiabio","67319",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1086735881,"828a3d8c-f762-11e1-a439-00145eb45e9a",6.76945,45.86445,2011,"8",20,"France","Les Bettières bei Bionnassay oberhalb Pont des Places","37382",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+1288172219,"828a3d8c-f762-11e1-a439-00145eb45e9a",6.780833,45.8618,2011,"8",20,"France","bei Bionnassay, Les Bettières, Aufstieg zur Aiguille de Bionnassay","37409",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+165124838,"89579e3e-f762-11e1-a439-00145eb45e9a",13.911995,46.399623,2002,"8",9,"Slovenia","Rjavec","F956089","Mrak T.","ULBF-AGR","FloVegSI-FLO","Gorenjska","GBIF",NA
+165124857,"89579e3e-f762-11e1-a439-00145eb45e9a",13.911995,46.399623,2002,"8",9,"Slovenia","Rjavec","F956307","Mrak T.","ULBF-AGR","FloVegSI-FLO","Gorenjska","GBIF",NA
+2028360323,"ee4d0706-38af-4bc4-8539-e17c0ca8512e",7.033333,46.483333,2001,"7",29,"Switzerland","Ver les Jordan, near Montbovon, Chateau d'Oex","30579","McMullen, Molly","DUKE",NA,"Fribourg","GBIF",NA
+165124654,"89579e3e-f762-11e1-a439-00145eb45e9a",14.911842,46.59964,1995,"9",27,"Slovenia",NA,"F779100","Mayrhofer H., Suppan U.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+165124665,"89579e3e-f762-11e1-a439-00145eb45e9a",15.078495,46.499659,1994,"8",21,"Slovenia",NA,"F779338","Mayrhofer H., Suppan U.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+152941303,"89579e3e-f762-11e1-a439-00145eb45e9a",13.745351,46.399616,1994,"9",29,"Slovenia",NA,"F776667","Batič F.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+152941304,"89579e3e-f762-11e1-a439-00145eb45e9a",13.745351,46.399616,1994,"9",29,"Slovenia",NA,"F776679","Batič F.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+152941255,"89579e3e-f762-11e1-a439-00145eb45e9a",15.411775,46.599662,1992,"10",23,"Slovenia",NA,"F775411","Koch M., Koch E.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+152941257,"89579e3e-f762-11e1-a439-00145eb45e9a",15.411775,46.599662,1992,"10",16,"Slovenia",NA,"F775456","Koch M., Koch E.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+152941277,"89579e3e-f762-11e1-a439-00145eb45e9a",14.911851,46.499652,1987,"9",23,"Slovenia",NA,"F775977","Batič F.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+2270800505,"98bceab6-3c3e-4163-945d-6ca10576ebf1",15.766667,48.85,1986,"5",25,"Austria","Riegersburg, near old castle on hill in center of town","543650","B.D. Ryan","ASU",NA,"Styria","GBIF",NA
+152941279,"89579e3e-f762-11e1-a439-00145eb45e9a",15.245201,45.799749,1979,"7",17,"Slovenia",NA,"F776039","Batič F.","ULBF-AGR","FloVegSI-FLO",NA,"GBIF",NA
+1212225639,"85739778-f762-11e1-a439-00145eb45e9a",10.9833,46.65,1976,"7",4,"Italy","ITALY, Trentino/Südtirol: Vinschgau (Val Venostana), dry slopes close above Unterstell NW of Naturns. Alt. ca. 1350 m.","191473","A. Buschardt","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+2449353727,"85739778-f762-11e1-a439-00145eb45e9a",10.2667,46.2833,1976,"7",5,"Italy","ITALY, Sondrio: Valtellina (Veltlin), dry slopes at Cast. Visconti between Grosotto and Grosio. Alt. ca. 650 m.","191472","A. Buschardt","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+2449357615,"85739778-f762-11e1-a439-00145eb45e9a",5.8,45.3333,1963,"4",16,"France","FRANCE, Dep. Isère: Grande Chartreuse, region of Dent de Crolles, between Les Meunières and Le Neyroud. Alt. 1200 m.","179366","H. Reznik","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+NA,NA,10.566667,47.583333,1961,"18.6.1961",NA,NA,"Germany, Bavaria, Allgäu, Pfronten","M-0301698","A. Schröppel","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+788526471,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",16.301111,49.070833,1958,"4",6,"Czechia","Polánka","1283041","A. Vezda","LD","General","Jihomoravsky kraj","GBIF",NA
+912724423,"828a3d8c-f762-11e1-a439-00145eb45e9a",10.265833,47.388883,1956,"4",15,"Germany","Allgäu, Oberstdorf, bei der Talstation der Sesselbahn","3905",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+788525550,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",10.405833,47.515833,1956,"6",NA,"Germany","Oberjoch","1282081","E. Putzler","LD","General","Bayern","GBIF",NA
+2449366226,"85739778-f762-11e1-a439-00145eb45e9a",6.4333,50.2,1956,"8",1,"Germany","DEUTSCHLAND: Eifel, Kr. Prüm, Rommersheim.","115579","V. J. Grummann","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+NA,NA,10.371929,47.506982,1956,"9.1956",NA,"Deutschland","Allgäu, Hindelang",NA,"A. Schröppel & J. Poelt","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+2449363412,"85739778-f762-11e1-a439-00145eb45e9a",8.7833,46.1833,1955,"8",3,"Switzerland","Schweiz, Tessin, Cardada.","118439","V. J. Grummann","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+912724427,"828a3d8c-f762-11e1-a439-00145eb45e9a",10.68055,47.536667,1954,"4",29,"Austria","Nordtirol, Pinswang s, im Tal","3903",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+NA,NA,10.699994,47.516706,1954,"30.4.1954",NA,NA,"Austria, Tyrol, Pinswang - Kniepass, Reutte-Aussfern","M-0301682","A. Schröppel","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+788525433,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",10.275833,47.408611,1950,"8",2,"Germany","Oberstdorf","1281961","E. Putzler","LD","General","Bayern","GBIF",NA
+NA,NA,11.196753,48.888543,1949,"1.4.1949",NA,NA,"Germany, Bavaria, Oberbayern, Kr. Wolfratshausen, at the roadside between Deichstetten and Schäftlarn","M-0301703","J. Poelt","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+2449366328,"85739778-f762-11e1-a439-00145eb45e9a",10.3667,47.5,1935,"7",30,"Germany","DEUTSCHLAND, Bayern: Allgäu, Fussweg Hinterstein-Bad Oberdorf.","118639","J. Hillmann in herb. V. J. Grummann","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+NA,NA,10.283333,47.516667,1935,"4-Jul",NA,"GERMANY","DEUTSCHLAND, Bayern: Allgäu, Sonthofen.","118862","J. Hillmann in herb. V. J. Grummann","BERLIN_DB",NA,NA,"BERLIN_DB",""
+788526589,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",18.171667,48.558333,1926,"8",NA,"Slovakia","Topolcany","1283161","J. Hruby","LD","General","Nitriansky kraj","GBIF",NA
+NA,NA,8.064515,47.863391,1926,"14-Jul",NA,"GERMANY","DEUTSCHLAND, Baden-Württemberg: Schwarzwald, Fahrstrasse zwischen dem Jugendheim (nahe dem Feldberger Hof) und Bärental. Alt. ca. 1050 m.","116042","J. Hillmann in herb. V. J. Grummann","BERLIN_DB",NA,NA,"BERLIN_DB","B 60 0033509"
+788526529,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",14.43963,49.09345,1925,"5",NA,"Czechia","No locality information available","1283101","J. Hruby","LD","General","Jihocesky kraj","GBIF",NA
+2449354286,"85739778-f762-11e1-a439-00145eb45e9a",17.3833,50.25,1922,"4",15,"Czechia","Altvatergebirge [Hrubý Jeseník], bei Zuckmantel [Zlaté Hory], Ahornallee vorm Kreuzweg u. Mariahilf.","116151","V. J. Grummann","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+2449356359,"85739778-f762-11e1-a439-00145eb45e9a",17.3333,50.2833,1921,"10",5,"Poland","Altvatergebirge [Hrubý Jeseník], Endersdorf [Gestwina].","119020","V. J. Grummann","B","Lichen Herbarium Berlin",NA,"GBIF",NA
+442145686,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.947222,47.831665,1912,"5",27,"Germany","Schwarzwald: Lisbühl bei Todtnau","B 60 0033491 / 146025 / 90172","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145689,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.670278,47.802776,1912,"5",5,"Germany","[Schwarzwald] Baden: Strasse Badenweiler - Schweighof","B 60 0033495a / 150024 / 91661","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145692,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.941389,47.851665,1912,"6",23,"Germany","[Schwarzwald] Baden: Todtnauberg, gegen Aftersteg","B 60 0033499 / 146029 / 90174","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145693,"8589cc8c-f762-11e1-a439-00145eb45e9a",8.053611,47.859444,1912,"7",28,"Germany","[Schwarzwald] Baden: Zeiger, beim Feldberg","B 60 0033499a / 150030 / 91663","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+788526413,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",13.23419,49.59218,1911,"8",17,"Czechia","No locality information available","1282981","G. Timkó","LD","General","Plzensky kraj","GBIF",NA
+442145696,"8589cc8c-f762-11e1-a439-00145eb45e9a",10.9825,50.798054,1910,"5",9,"Germany","Thüringen: 2) Dannheim","B 60 0033512a / 150032 / 91664","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145688,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.934166,47.698334,1910,"8",29,"Germany","[Schwarzwald] Baden: Gersbach","B 60 0033495 / 146036 / 90176","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145694,"8589cc8c-f762-11e1-a439-00145eb45e9a",10.914722,50.703056,1908,"9",25,"Germany","Thüringen: Nahe Oberpörlitz, bei Ilmenau, 580 m.","B 60 0033500 / 146032 / 90175","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145805,"8589cc8c-f762-11e1-a439-00145eb45e9a",10.916945,50.685833,1908,"9",25,"Germany","Thüringen: 2) Ilmenau gegen Oberpörlitz, 520 m.","B 60 0128080b / 152724 / 92703","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145690,"8589cc8c-f762-11e1-a439-00145eb45e9a",10.944445,50.838333,1907,"5",26,"Germany","Thüringen:  1) Mühlburg bei Arnstadt, 360 m.","B 60 0033498 / 146027 / 90173","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+442145695,"8589cc8c-f762-11e1-a439-00145eb45e9a",10.854167,50.7075,1906,"9",7,"Germany","Thüringen: 1) Elgersburg gegen Geraberg","B 60 0033512 / 146038 / 90177","Lettau, G.","B","Blettaucoll",NA,"GBIF",NA
+912724172,"828a3d8c-f762-11e1-a439-00145eb45e9a",15.933333,50.883333,1899,"9",30,"Poland","Riesengebirge, Jannowitz, an der alten Straße nach Kupferberg","12241",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+912724173,"828a3d8c-f762-11e1-a439-00145eb45e9a",15.933333,50.883333,1899,"10",30,"Poland","Riesengebirge, Jannowitz, an der alten Straße nach Kupferberg","12242",NA,"FR","Herbarium Senckenbergianum (FR) - Fungi",NA,"GBIF",NA
+NA,NA,7.987557,51.95109,1890,"1890",NA,"Deutschland","Warnadorf bei Dresden",NA,"Auerswalde","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+788525257,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",16.38088,51.07989,1888,"7",16,"Poland","No locality information available","1281781","E. F. Dresler","LD","General","Dolnoslaskie","GBIF",NA
+788525609,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",16.38088,51.07989,1888,"7",16,"Poland","No locality information available","1282141","E. F. Dresler","LD","General","Dolnoslaskie","GBIF",NA
+NA,NA,34.161481,44.500129,1885,"7.7.1885",NA,NA,"Ukraine (currently Russia), Crimea, near Jalta","M-0301697","Lojka","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+788526241,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",7.957778,45.831944,1880,NA,NA,"Italy","Riva Valdobbia","1282801","A. Carestia","LD","General","Piemonte","GBIF",NA
+788525668,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.598056,50.953889,1879,"4",3,"Germany","Jena: Rautal","1282201","B. Jonsson","LD","General","Thüringen","GBIF",NA
+788525724,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",13.568611,46.438333,1879,"4",3,"Italy","Raibl [Cave del Predil]","1282261","B. Jonsson","LD","General","Friuli-Venezia Giulia","GBIF",NA
+788525374,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",13.058611,52.396944,1877,"12",9,"Germany","Potsdam","1281901","G. Egeling","LD","General","Brandenburg","GBIF",NA
+929130,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.296944,54.865833,1871,"8",NA,"Denmark","Rosningen","1040226","E. Rostrup","LD","General","Lolland","GBIF",NA
+NA,NA,8.613056,50.229964,1863,"2.1863",NA,"Deutschland","Bad Homburg",NA,"Metzler","BERLIN_HTL",NA,NA,"BERLIN_HTL",NA
+NA,NA,8.533333,48.933333,1862,"1862",NA,NA,"Germany, Baden-Württemberg, Mutschelbach","M-0301688","Bausch","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+NA,NA,8.24656,48.725892,1861,"1861",NA,NA,"Germany, Baden-Württemberg, Geroldsau","M-0301690","Bausch","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+788526184,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",7.957778,45.831944,1857,"9",26,"Italy","Riva Valdobbia","1282741","A. Carestia","LD","General","Piemonte","GBIF",NA
+NA,NA,11.196753,48.888543,1856,"1856",NA,NA,"Germany, Bavaria, Eichstätt","M-0301701","Arnold","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA
+NA,NA,7.944946,48.473768,1826,"1826",NA,NA,"Germany, Baden-Württemberg, Offenburg","M-0301689","Schimper","MUNICH_HTL",NA,NA,"MUNICH_HTL",NA

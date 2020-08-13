@@ -1,0 +1,6 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","stateProvince","year","month","day","country","locality","collectionCode","catalogNumber","recordedBy","institutionCode","DB"
+621535,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",12.003611,54.762222,"Falster",1946,"7",15,"Denmark","Sønder Alslev","General","1045023","Ove Almborn","LD","GBIF"
+621537,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",10.844167,54.997222,"Langeland",1946,"7",18,"Denmark","Tranekær","General","1045087","Ove Almborn","LD","GBIF"
+621542,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.484444,54.833056,"Lolland",1946,"7",17,"Denmark","Knuthenborg","General","1045279","Ove Almborn","LD","GBIF"
+NA,NA,8.650271,49.871674,NA,1886,"12.6.1886",NA,NA,"Germany, Hesse, near Darmstadt",NA,"M-0302893","Roth","MUNICH_HTL","MUNICH_HTL"
+NA,NA,14.521414,46.576287,NA,1872,"9.1872",NA,NA,"Slovenia, between Krakovo and Wato, near Unterkrain",NA,"M-0302895","?Glovo","MUNICH_HTL","MUNICH_HTL"

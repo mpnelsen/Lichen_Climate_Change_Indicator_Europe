@@ -1,0 +1,20 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","stateProvince","year","month","day","country","catalogNumber","recordedBy","institutionCode","locality","collectionCode","DB","BBarcode"
+1676073329,"828a3d8c-f762-11e1-a439-00145eb45e9a",6.79,47.810417,NA,2016,"9",17,"France","49067-771",NA,"FR","Waldreservat St. Antoine","Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+1061245126,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.263883,50.945,NA,2014,"10",30,"Germany","38453",NA,"FR","Keilholz, unten am Ausgang zum Knechtsbachtal","Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+1061245127,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.18555,50.94555,NA,2014,"10",28,"Germany","38406",NA,"FR","beim Eingang zum Schwarzbachtal","Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+1061245128,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.229167,50.945283,NA,2014,"10",30,"Germany","38454",NA,"FR","über dem Keilholzflüßchen","Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+1061245130,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.18555,50.946117,NA,2014,"10",28,"Germany","38398",NA,"FR","Schwarzbachtal, unter dem ""Raubschloß""","Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+1061245131,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.19695,50.947217,NA,2014,"10",28,"Germany","38403",NA,"FR","im Sebnitztal","Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+913615034,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.93195,51.1325,NA,2013,"5",2,"Germany","35012",NA,"FR","Görlitz, Landeskrone, Eschenallee am Fahrweg, Baum ""7""","Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+913614974,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.33445,50.91305,NA,2012,"10",11,"Germany","33958",NA,"FR","Elbsandsteingebirge, bei der niederen Schleuse","Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+913615016,"828a3d8c-f762-11e1-a439-00145eb45e9a",14.098617,50.98695,NA,2012,"10",9,"Germany","34031",NA,"FR","Elbsandsteingebirge, Riesengrund, an der Flanke des Hühnerbergs","Herbarium Senckenbergianum (FR) - Fungi","GBIF",NA
+1212209450,"85739778-f762-11e1-a439-00145eb45e9a",9.4833,53.4167,NA,2008,"4",5,"Germany","103373","H. Sipman","B","DEUTSCHLAND, Niedersachsen: Landkr. Stade. Braken NSG & FFH, S of Harsefeld. MTB 2522/4B5. Elev. 50 m.","Lichen Herbarium Berlin","GBIF",NA
+NA,NA,9.005089,53.42196,NA,2008,"4-Apr",NA,"GERMANY","103361","H. Sipman","BERLIN_DB","DEUTSCHLAND, Niedersachsen: Landkr. Landkreis Rotenburg (Wümme). Franzhorn forest N of Brillit, Naturwald area. MTB 2520/3B1. Elev. 20-40 m",NA,"BERLIN_DB",NA
+1717205752,"cef8bb20-149a-11de-bab0-b8a03c50a862",16.821859,50.320338,"dolnośląskie",2004,"6",26,"Poland",NA,"Szczepańska, K.","MNHW","p: dolnośląskie; c: Kłodzko; Biała Woda Stream Valley",NA,"GBIF",NA
+1717207550,"cef8bb20-149a-11de-bab0-b8a03c50a862",16.821859,50.320338,"dolnośląskie",2004,"6",26,"Poland",NA,"Szczepańska, K.","MNHW","p: dolnośląskie; c: Kłodzko; Równica Stream Valley",NA,"GBIF",NA
+1717206614,"cef8bb20-149a-11de-bab0-b8a03c50a862",16.826168,50.230893,"dolnośląskie",2003,"8",27,"Poland",NA,"Szczepańska, K.","MNHW","p: dolnośląskie; c: Kłodzko; Międzygórze",NA,"GBIF",NA
+1717207505,"cef8bb20-149a-11de-bab0-b8a03c50a862",16.826168,50.230893,"dolnośląskie",2003,"8",22,"Poland",NA,"Szczepańska, K.","MNHW","p: dolnośląskie; c: Kłodzko; Nowinka Stream Valley",NA,"GBIF",NA
+152946901,"89579e3e-f762-11e1-a439-00145eb45e9a",14.411978,45.799715,"Notranjska",1997,"10",3,"Slovenia","F1020220","Pruegger J., Suppan U., Mayrhofer H., Batič F.","ULBF-AGR","Cerkniško jezero","FloVegSI-FLO","GBIF",NA
+152947477,"89579e3e-f762-11e1-a439-00145eb45e9a",14.411987,45.699727,NA,1992,"10",14,"Slovenia","F775277","Grube M.","ULBF-AGR",NA,"FloVegSI-FLO","GBIF",NA
+NA,NA,9.341387,49.863291,NA,1953,"6. Okt.",NA,"GERMANY","24109","O. Behr","BERLIN_DB","DEUTSCHLAND, BADEN. Spessart. Dammbachtal: feuchter Laubwald. Alt. 250 m.",NA,"BERLIN_DB",NA
+442147409,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.863056,47.963055,NA,1916,"4",20,"Germany","B 60 0128113 / 151947 / 92436","Lettau, G.","B","Schwarzwald: Oberhalb Freiburg - Güntherstal, ca. 400-500 m.","Blettaucoll","GBIF",NA

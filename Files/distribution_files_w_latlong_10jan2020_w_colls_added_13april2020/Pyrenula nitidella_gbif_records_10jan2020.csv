@@ -1,0 +1,41 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","year","month","day","country","catalogNumber","institutionCode","locality","collectionCode","recordedBy","stateProvince","DB","BBarcode"
+914898955,"828a3d8c-f762-11e1-a439-00145eb45e9a",23.816667,52.70695,2011,"4",24,"Poland","35785","FR","Bia&#322;owie&#380;a, am Waldpfad ""Zebra Zubra""","Herbarium Senckenbergianum (FR) - Fungi",NA,NA,"GBIF",NA
+1930708632,"d415c253-4d61-4459-9d25-4015b9084fb0",15.5708,47.2083,2009,"10",26,"Austria","03303859","NY","Steiermark (=Styria), Eastern Alps, Styrian Fringe Mountains, Grazer Bergland, Raabklamm (orographically right side of the river Raab), 4.3 km west-southwest of Weiz, 0.2 km northwest of a water power station, near a dilapidated saw mill. (grid number 8759/3)","NY","J. Hafellner","Styria","GBIF",NA
+1212221118,"85739778-f762-11e1-a439-00145eb45e9a",13.7833,48.49,1999,"10",31,"Austria","138387","B","AUSTRIA, Oberösterreich (=Upper Austria), Mühlviertel, Bezirk Rohrbach, Gemeinde Pfarrkirchen, 25 km SE of Passau, 400 m S of the ruins of Falkenstein, valley of the river Ranna. Alt. 370 m.","Lichen Herbarium Berlin","F. Berger",NA,"GBIF",NA
+2270773107,"98bceab6-3c3e-4163-945d-6ca10576ebf1",13.783333,48.490278,1999,"10",31,"Austria","503609","ASU","Mühlviertel, Bezirk Rohrbach, Gemeinde Pfarrkirchen, 25 km SE of Passau, 400 m S of the ruins of Falkenstein, valley of the river Ranna, MTB 7548/2",NA,"F. Berger","Upper Austria","GBIF",NA
+1717231331,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.39,53.41,1996,"7",30,"Poland",NA,"UoB-IB","res. Starodrzew Szyndzielski",NA,"K. Kolanko","podlaskie","GBIF",NA
+1717231598,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.4,53.23,1994,"3",29,"Poland",NA,"UoB-IB","Czołnowo",NA,"K. Kolanko","podlaskie","GBIF",NA
+1717231603,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.4,53.23,1994,"3",29,"Poland",NA,"UoB-IB","Czołnowo",NA,"K. Kolanko","podlaskie","GBIF",NA
+1717229475,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.29,53.51,1993,"5",13,"Poland",NA,"UoB-IB","res. Budzisk",NA,"K. Kolanko","podlaskie","GBIF",NA
+1717231590,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.29,53.51,1993,"5",13,"Poland",NA,"UoB-IB","res. Budzisk",NA,"K. Kolanko","podlaskie","GBIF",NA
+1717231596,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.29,53.51,1993,"5",13,"Poland",NA,"UoB-IB","res. Budzisk",NA,"K. Kolanko","podlaskie","GBIF",NA
+1717231665,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.29,53.51,1993,"5",13,"Poland",NA,"UoB-IB","res. Budzisk",NA,"K. Kolanko","podlaskie","GBIF",NA
+125714479,"84cdd6d0-f762-11e1-a439-00145eb45e9a",14,55,1993,"10",NA,"Denmark","3139","C","Bornholm, Ekkodalen","L","Mona Nissen","Bornholm","GBIF",NA
+1717231517,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.29,53.51,1993,"10",21,"Poland",NA,"UoB-IB","res. Budzisk",NA,"K. Kolanko","podlaskie","GBIF",NA
+1717231657,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.29,53.51,1993,"10",21,"Poland",NA,"UoB-IB","res. Budzisk",NA,"K. Kolanko","podlaskie","GBIF",NA
+1717231666,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.29,53.51,1993,"10",21,"Poland",NA,"UoB-IB","res. Budzisk",NA,"K. Kolanko","podlaskie","GBIF",NA
+1717231667,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.29,53.51,1993,"10",21,"Poland",NA,"UoB-IB","res. Budzisk",NA,"K. Kolanko","podlaskie","GBIF",NA
+1717230500,"8e93fad0-a705-11dc-80be-b8a03c50a862",23.29,53.34,1992,"4",22,"Poland",NA,"UoB-IB","res. Jesionowe Góry",NA,"J. Steckiewicz","podlaskie","GBIF",NA
+2237866398,"84d26682-f762-11e1-a439-00145eb45e9a",11.73717,54.87344,1984,"7",19,"Denmark","DMS-1004739",NA,"Færgemark",NA,"Mogens Skytte Christiansen",NA,"GBIF",NA
+2270755238,"98bceab6-3c3e-4163-945d-6ca10576ebf1",9.1,48.65,1981,"7",25,"Germany","570397","ASU","Waldenbuch, in Schönaichtal",NA,"T.H. Nash III","Baden-Württemberg","GBIF",NA
+152949281,"89579e3e-f762-11e1-a439-00145eb45e9a",14.91192,45.699747,1978,"7",15,"Slovenia","F775597","ULBF-AGR",NA,"FloVegSI-FLO","Batič F.",NA,"GBIF",NA
+152949284,"89579e3e-f762-11e1-a439-00145eb45e9a",14.745284,45.599752,1976,"6",15,"Slovenia","F775771","ULBF-AGR",NA,"FloVegSI-FLO","Batič F.",NA,"GBIF",NA
+152949282,"89579e3e-f762-11e1-a439-00145eb45e9a",15.411836,45.899745,1976,"7",15,"Slovenia","F775637","ULBF-AGR",NA,"FloVegSI-FLO","Batič F.",NA,"GBIF",NA
+NA,NA,16.693333,49.258889,1960,"10.4.1960",NA,NA,"M-0302874","MUNICH_HTL","Czech Republic, Moravia, Moravsky kras, Ricmanice, near Brno",NA,"A. Vezda",NA,"MUNICH_HTL",NA
+NA,NA,16.708252,49.36359,1958,"29.4.1958",NA,NA,"M-0302873","MUNICH_HTL","Czech Republic, Moravia, Moravsky kras, Punkva valley, near Skalní mlyn",NA,"A. Vezda",NA,"MUNICH_HTL",NA
+1086229819,"fe35d6a0-0c6e-11dd-84d2-b8a03c50a862",14,55,1944,"6",28,"Sweden","L14739","S","Skåne; Ö. Sönnarslöv; Maltesholm;;","S-Fungi","Ove Almborn","Skåne","GBIF",NA
+986657,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.798333,54.722778,1943,"5",29,"Denmark","1093008","LD","Fuglsang","General","M. Skytte-Christiansen","Lolland","GBIF",NA
+1212214953,"85739778-f762-11e1-a439-00145eb45e9a",7.6717,47.6333,1929,"7",4,"Germany","118855","B","DEUTSCHLAND, Baden-Württemberg: Haagen bei Lörrach, Röttler Wald.","Lichen Herbarium Berlin","V. J. Grummann",NA,"GBIF",NA
+442147896,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.691111,47.551945,1920,"4",25,"Germany","B 60 0128117 / 151957 / 92440","B","Baden: 1) Merkhof bei Wyhlen, 320 m.","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147850,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.695556,47.643612,1914,"4",12,"Germany","B 60 0112163 / 149412 / 91406","B","Baden: Wald südlich Brombach","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147921,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.818889,47.620277,1912,"7",7,"Germany","B 60 0128124d / 152001 / 92455","B","Baden: 4) Nordschwaben - Minseln","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147843,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.823056,47.65139,1911,"3",NA,"Germany","B 60 0112114 / 149064 / 91283","B","Baden: Schopfheim - Hasel unweit s. Kürnberg!","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147818,"8589cc8c-f762-11e1-a439-00145eb45e9a",8.021944,47.554443,1911,"9",10,"Germany","B 60 0111740 / 147948 / 90913","B","Schwarzwald: Wieladinger Schloss bei Murg","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147919,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.695833,47.645557,1911,"9",17,"Germany","B 60 0128124c / 151997 / 92454","B","Baden: 3) Sormatt-Tälchen bei Hauingen","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147898,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.661667,47.612778,1911,"10",11,"Germany","B 60 0128117a / 151959 / 92441","B","Baden: 2) Lörrach - Adelhausen","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147900,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.661667,47.612778,1911,"10",11,"Germany","B 60 0128117b / 152730 / 92705","B","Baden: 2) Lörrach - Adelhausen","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147914,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.823056,47.65139,1911,"12",17,"Germany","B 60 0128124 / 151992 / 92452","B","Baden: 1) Entegast bei Schopfheim","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147916,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.823056,47.65139,1911,"12",17,"Germany","B 60 0128124a / 148912 / 91217","B","Baden: 1) Entegast bei Schopfheim","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147917,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.675,47.660557,1910,"6",5,"Germany","B 60 0128124b / 151994 / 92453","B","Baden: 2) Röttler Wald","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+442147622,"8589cc8c-f762-11e1-a439-00145eb45e9a",7.695556,47.643612,1910,"12",NA,"Germany","B 60 0023294 / 145492 / 89973","B","Baden: 1) Brombacher Wald","Blettaucoll","Lettau, G.",NA,"GBIF",NA
+NA,NA,12.386504,51.34419,1858,"1858",NA,NA,"M-0302871","MUNICH_HTL","Germany, Saxonia, Leipzig, Gaschitz",NA,"Auerswald",NA,"MUNICH_HTL",NA

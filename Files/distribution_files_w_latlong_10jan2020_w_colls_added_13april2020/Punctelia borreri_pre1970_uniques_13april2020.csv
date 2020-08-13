@@ -1,0 +1,7 @@
+"key","datasetKey","decimalLongitude","decimalLatitude","year","month","day","country","catalogNumber","institutionCode","locality","collectionCode","stateProvince","recordedBy","DB","b1test","name","BBarcode"
+788555988,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",17.143056,48.638611,1968,7,17,"Slovakia","1313167","LD","Sastín-Stráze","General","Trnavsky kraj","J. Franclová & I. Pisút","GBIF",93,"Punctelia borreri",NA
+NA,NA,11.21255,46.3134,1958,5.1958,NA,NA,"M-0301717","MUNICH_HTL","Italy, South Tyrol, Bozen, Burg Ravenstein",NA,NA,"J. Poelt","MUNICH_HTL",114,"Punctelia borreri",NA
+788554253,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.424167,48.106944,1895,6,18,"Germany","1311409A","LD","Planegg","General","Bayern","Arnold","GBIF",80,"Punctelia borreri",NA
+788554254,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.42322,48.9469,1895,9,15,"Germany","1311409B","LD","No locality information available","General","Bayern","Arnold","GBIF",77,"Punctelia borreri",NA
+788554315,"aab0cf80-0c64-11dd-84d1-b8a03c50a862",11.533333,48.072222,1894,10,21,"Germany","1311469","LD","Grosshesselohe","General","Bayern","Arnold","GBIF",79,"Punctelia borreri",NA
+NA,NA,6.923225,51.604682,1861,8.1861,NA,"Deutschland",NA,"BERLIN_HTL","Kirchhellen",NA,NA,"Lahm","BERLIN_HTL",99,"Punctelia borreri",NA
